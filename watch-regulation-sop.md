@@ -1,82 +1,46 @@
-Operating and Maintaining an Automatic Mechanical Watch
+# User Guide: Automatic Mechanical Watch Operation
+**Document ID:** SOP-WATCH-001  
+**Version:** 1.0  
+**Effective Date:** February 2026  
+**Status:** Published
 
-Version 1.0
-Author: Liang-Hu Shieh
+---
 
-1. Overview
+## 1. Scope and Purpose
+This guide provides standardized procedures for the initial setup, daily operation, and long-term maintenance of automatic mechanical watches. It is designed to maximize movement longevity and timekeeping accuracy for the end-user.
 
-This document provides operating instructions and maintenance guidance for automatic mechanical wristwatches. It is intended for new owners seeking to ensure accurate timekeeping and prevent mechanical damage through improper handling.
 
-2. Components
+## 2. Safety and Cautionary Notices
 
-Key components include:
+> [!WARNING]
+> **Date Setting Restriction:** Do not adjust the date mechanism between **9:00 PM and 3:00 AM**. Engaging the date-flip gear during this window can cause permanent mechanical failure of the calendar wheel.
 
-Crown
+> [!CAUTION]
+> **Water Resistance:** Ensure the crown is fully depressed or screwed down before exposure to water. Failure to secure the crown voids all water resistance ratings and may lead to internal oxidation.
 
-Case
+## 3. Initial Setup Procedure (From "Dead" State)
+Follow these steps to re-engage the mainspring and synchronize time after a period of non-wear:
 
-Movement
+1. **Unsecure the Crown:** If equipped with a screw-down crown, rotate it counter-clockwise until it "pops" out into **Position 0**.
+2. **Manual Wind:** Rotate the crown clockwise 30–40 full turns. 
+   * *Note: Automatic movements feature a sliding clutch to prevent over-winding.*
+3. **Set Reference Time:** Pull the crown to its outermost position (**Position 2**). Rotate the hands forward until the date changes—this identifies "Midnight." Set the time to **6:00 AM** to ensure a safe window for date adjustment.
+4. **Set Date:** Push the crown to **Position 1**. Rotate the crown to the current numerical date.
+5. **Final Secure:** Push the crown back to **Position 0**. If applicable, screw the crown down firmly to ensure a water-tight seal.
 
-Rotor
+## 4. Technical Specifications & Expectations
+| Variable | Standard Expectation |
+| :--- | :--- |
+| **Accuracy** | ±15 seconds per day (Grade Dependent) |
+| **Power Reserve** | 40–80 Hours |
+| **Service Interval** | 3–5 Years |
 
-Mainspring
+## 5. Troubleshooting
+| Symptom | Potential Cause | Corrective Action |
+| :--- | :--- | :--- |
+| Watch stops overnight | Low power reserve | Increase daily wear to 8+ hours or manual wind. |
+| Significant time gain | Magnetization | Use a degaussing tool or visit a watchmaker. |
+| Date fails to flip | Improper setup | Repeat Step 3 of the Setup Procedure. |
 
-Date mechanism (if applicable)
-
-(Optional: Insert labeled diagram.)
-
-3. Initial Setup Procedure
-
-Remove the watch from packaging.
-
-Unscrew the crown (if screw-down model) by rotating counterclockwise.
-
-Manually wind the movement by rotating the crown clockwise 20–30 turns.
-
-Pull crown to Position 2 to set the time.
-
-Push crown inward and secure (if screw-down).
-
-Important:
-Do not set the date between 9:00 PM and 3:00 AM to prevent damage to the date mechanism.
-
-4. Daily Operation
-
-Automatic watches rely on wrist motion to maintain power reserve.
-
-Recommended daily wear: 8+ hours
-
-Typical power reserve: 38–72 hours depending on movement
-
-If stopped, repeat manual winding procedure
-
-5. Accuracy Expectations
-
-Mechanical watches typically operate within:
-
-±5 to ±20 seconds per day (manufacturer dependent)
-
-Factors affecting accuracy:
-
-Magnetization
-
-Positional variance
-
-Shock
-
-Low power reserve
-
-6. Troubleshooting
-Symptom	Possible Cause	Corrective Action
-Watch stops overnight	Insufficient power reserve	Fully wind and wear consistently
-Running fast	Magnetization	Demagnetize using professional service
-Date does not change	Improper date setting window	Advance time past midnight
-7. Maintenance Guidelines
-
-Service interval: Every 3–5 years
-
-Avoid magnetic fields
-
-Avoid high-impact shock
-
-Ensure water resistance seals are checked periodically
+---
+*© 2026 Liang-Hu Shieh. For portfolio demonstration purposes only.*
