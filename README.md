@@ -1,18 +1,19 @@
 # Technical Writing Portfolio: Liang-Hu Shieh
 
-Welcome to my professional documentation repository. This is a collection of my personal technical writing works, with the goal of demonstrating my ability to translate complex mechanical and operational processes into structured, user-centric documentation.
+Welcome to my professional documentation repository. This is a curated collection of my technical writing work, demonstrating my ability to translate complex operational and procedural processes into structured, user-centric documentation.
 
 ## Featured Sample: Mechanical Watch Operation (SOP-001)
-This sample focuses on **Information**, **Risk Mitigation**, and **Procedural Clarity**.
+This sample emphasizes **Information Clarity**, **Risk Mitigation**, and **Procedural Accuracy**.
 
 ### Key Technical Writing Skills Demonstrated:
-* **Standard Operating Procedures (SOP):** Structuring content for high-stakes environments.
-* **Hazard Communication:** Using standardized Warning/Caution blocks to prevent mechanical failure.
-* **Metadata Management:** Implementing Document IDs and Version Control.
-* **Audience-Focused Design:** Simplifying technical jargon for non-expert end-users.
+* **Standard Operating Procedures (SOPs):** Structuring content for clarity and repeatability.
+* **Hazard Communication:** Using standardized Warning/Caution blocks to reduce risk of error.
+* **Metadata & Version Control:** Implementing Document IDs, version tracking, and audit-ready records.
+* **Audience-Focused Design:** Simplifying technical information for diverse end-users.
 
 ---
+
 ### Professional Background
-* **Experience:** 8+ years producing more than 3,000+ technical deliverables.
-* **Specialization:** Financial Compliance (AML/KYC), Procedural Guides, and Case Studies.
-* **Location:** Rockville, MD (U.S. Citizen | Public Trust Clearable)
+* **Experience:** 8+ years producing over 3,000 structured technical deliverables, including SOPs, procedural guides, and case studies.
+* **Specialization:** High-volume technical writing, procedural documentation, and regulatory-aligned materials (AML/KYC, BSA compliance exposure).
+* **Location / Clearance:** Rockville, MD | U.S. Citizen | Public Trust Clearable
