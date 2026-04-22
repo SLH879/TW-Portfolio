@@ -17,7 +17,8 @@ This guide provides standardized procedures for the initial setup, daily operati
 ## 2. Safety and Cautionary Notices
 
 > [!WARNING]
-> **Date Setting Restriction:** Do not adjust the date mechanism between **9:00 PM and 3:00 AM, sometimes 10PM and 2AM, or 11PM and 1PM** (depending on the make and model. Engaging the date-flip gear during this window can cause permanent mechanical failure of the calendar (day/date) wheel.
+> **Date Setting Restriction:** Do not adjust the date mechanism between **9:00 PM and 3:00 AM, sometimes 10PM and 2AM, or 11PM and 1PM** (depending on the make and model.
+> Engaging the date-flip gear during this window can cause permanent mechanical failure of the calendar (day/date) wheel.
 
 > [!CAUTION]
 > **Water Resistance:** Ensure the crown is fully depressed or screwed down before exposure to water. Failure to secure the crown voids all water resistance ratings and may lead to internal oxidation.
@@ -42,10 +43,10 @@ Follow these steps to re-engage the mainspring and synchronize time after a peri
 | **Power Reserve** | 40–80 Hours |
 | **Service Interval** | 5-10 Years |
 
-| ***Crown Positions:***
-| [0] ── normal operation / winding (screw-down locked if applicable)
-| [1] ── date adjustment
-| [2] ── time setting (hack function engaged)
+| ***Crown Positions:*** |
+| [0] ── normal operation / winding (screw-down locked if applicable) |
+| [1] ── date adjustment |
+| [2] ── time setting (hack function engaged) |
 
 
 ## 5. Troubleshooting
