@@ -17,8 +17,8 @@ This guide provides standardized procedures for the initial setup, daily operati
 ## 2. Safety and Cautionary Notices
 
 > [!WARNING]
-> **Date Setting Restriction:** Do not adjust the date mechanism between **9:00 PM and 3:00 AM, sometimes 10PM and 2AM, or 11PM and 1PM** (depending on the make and model.
-> Engaging the date-flip gear during this window can cause permanent mechanical failure of the calendar (day/date) wheel.
+> **Date Setting Restriction:** Do not adjust the date mechanism between **9:00 PM and 3:00 AM, sometimes 10PM and 2AM, or 11PM and 1PM** (depending on the make and model.  
+> Engaging the date-flip gear during this window can cause permanent mechanical failure of the calendar (day/date) wheel.  
 
 > [!CAUTION]
 > **Water Resistance:** Ensure the crown is fully depressed or screwed down before exposure to water. Failure to secure the crown voids all water resistance ratings and may lead to internal oxidation.  
@@ -32,9 +32,9 @@ Follow these steps to re-engage the mainspring and synchronize time after a peri
 1. **Unsecure the Crown:** If equipped with a screw-down crown, rotate it counter-clockwise until it "pops" out into **Position 0 (outermost position)**.  
 2. **Manual Wind:** Rotate the crown clockwise 30–50 full turns (though, this depends on mainspring tension).   
    * *Note: Automatic movements feature a sliding clutch to prevent over-winding, though, this is largely absent in mechanical watches.*  
-3. **Set Reference Time:** Pull the crown to its outermost position (**Position 2**). Rotate the hands forward until the date changes—this identifies "Midnight" and indicates that it's now the day after. For many watches without instant date change capability, the date flip wheel will remain in a partially engaged state between approximately 11pm to 1am. Thus, to ensure a safe window for date adjustment, set the time to **6:00 AM**.
-4. **Set Date:** Push the crown to **Position 1**. Rotate the crown to the current numerical date.
-5. **Final Secure:** Push the crown back to **Position 0**. If applicable, screw the crown down firmly to ensure a water-tight seal.
+3. **Set Reference Time:** Pull the crown to its outermost position (**Position 2**). Rotate the hands forward until the date changes—this identifies "Midnight" and indicates that it's now the day after. For many watches without instant date change capability, the date flip wheel will remain in a partially engaged state between approximately 11pm to 1am. Thus, to ensure a safe window for date adjustment, set the time to **6:00 AM**.  
+4. **Set Date:** Push the crown to **Position 1**. Rotate the crown to the current numerical date.  
+5. **Final Secure:** Push the crown back to **Position 0**. If applicable, screw the crown down firmly to ensure a water-tight seal.  
 
 ## 4. Technical Specifications & Expectations
 | Variable | Standard Expectation |
@@ -59,12 +59,12 @@ Follow these steps to re-engage the mainspring and synchronize time after a peri
 | Watch runs slow | Possible magnetization or lubrication issue | Degauss, or visit a certified watchmaker. | 
 
 ## 6. Reference Basis
-| This document synthesizes operational guidance from:  
-| Rolex Oyster Perpetual technical documentation (movement handling conventions)  
-| ETA 2824-2 / Sellita SW200 service manuals (generic automatic movement behavior)  
-| Seiko 4R / 6R caliber user guides (date-setting constraints)  
-| Grand Seiko 9S85/86 instructions (tuime and date setting)  
-| General watch servicing guidelines from independent watchmaking manuals  
+This document synthesizes operational guidance from:  
+Rolex Oyster Perpetual technical documentation (movement handling conventions)  
+ETA 2824-2 / Sellita SW200 service manuals (generic automatic movement behavior)  
+Seiko 4R / 6R caliber user guides (date-setting constraints)  
+Grand Seiko 9S85/86 instructions (tuime and date setting)  
+General watch servicing guidelines from independent watchmaking manuals  
 
 ---
 *© 2026 Liang-Hu Shieh. For portfolio purposes only.*
