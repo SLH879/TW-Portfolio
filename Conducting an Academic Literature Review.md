@@ -1,10 +1,10 @@
 # User Guide: Conducting an Academic Literature Review
-**Document ID:** SOP-ACAD-002 | **Version:** 1.0 | **Effective Date:** April 2026 | **Status:** Published
+**Document ID:** SOP-ACAD-003 | **Version:** 1.1 | **Effective Date:** May 2026 | **Status:** Published
 
 ---
 
 > **Project Profile: Instructional Standardization**
-> * **Source Context:** Undergraduate and Graduate-Level Research Assignments
+> * **Source Context:** Undergraduate and Graduate Level Research Assignments
 > * **Objective:** Standardize literature review methodology to improve research quality, source traceability, and analytical rigor.
 
 ---
@@ -64,8 +64,8 @@ Assess each source using the following criteria:
 
 | Criteria | Evaluation Question |
 | :--- | :--- |
-| **Authority** | Is the author qualified in the field? |
-| **Relevance** | Does the source directly address the research question? |
+| **Authority** | Is the author qualified in the field? <br> Is the author authoritative, with the relvevant credentials to back claims? |
+| **Relevance** | Does the source directly address the research question(s) proposed? |
 | **Methodology** | Is the research design sound and clearly explained? |
 | **Recency** | Is the publication date appropriate for the topic? |
 
@@ -74,18 +74,21 @@ Assess each source using the following criteria:
 ### Step 4: Extract Key Information
 For each selected source, document:
 
-- Research objective
+- Abstract
+- Research Objective(s)
 - Methodology
 - Key findings
 - Limitations
+- Discussion/Future Implications
 - Relevance to your topic
 
 ---
 
 ### Step 5: Synthesize Findings
-- Group sources by theme, methodology, or conclusion
-- Identify patterns, agreements, and contradictions
+- Group sources by theme, research questions, hypotheses, methodology, or conclusion
+- Identify common patterns, agreements, and contradictions
 - Highlight gaps in existing research
+- Evaluate potential limitations beyond ones mentioned by authors, and identify potential future rectifications
 
 ---
 
@@ -95,15 +98,15 @@ Organize the literature review into logical sections:
 | Section | Purpose |
 | :--- | :--- |
 | **Introduction** | Define scope and research question |
-| **Body** | Thematic or methodological synthesis of sources |
+| **Bodies** | Thematic or methodological synthesis of sources |
 | **Conclusion** | Summarize insights and identify research gaps |
 
 ---
 
 ### Step 7: Cite Sources Properly
 - Apply required citation style consistently
-- Include in-text citations and reference list
-- Verify formatting against official style guidelines
+- Include in-text citations throughout the written work and a comprehensive reference list at the very end, followed by a page break
+- Verify formatting against official style guidelines (guides can be found online)
 
 ---
 
@@ -111,10 +114,10 @@ Organize the literature review into logical sections:
 
 | Variable | Standard Expectation |
 | :--- | :--- |
-| **Source Count** | 8–20 scholarly sources (assignment-dependent) |
+| **Source Count** | 5–15 scholarly sources (assignment-dependent) |
 | **Source Type** | Majority peer-reviewed |
 | **Citation Accuracy** | 100% compliance with required style |
-| **Analytical Depth** | Demonstrates synthesis, not summary |
+| **Analytical Depth** | Demonstrates synthesis, not summary nor personal opinions |
 
 ---
 
@@ -122,10 +125,10 @@ Organize the literature review into logical sections:
 
 | Issue | Potential Cause | Corrective Action |
 | :--- | :--- | :--- |
-| Over-reliance on summaries | Lack of critical analysis | Reframe writing to compare and evaluate sources |
+| Over-reliance on summaries | Lack of in-depth and critical analysis | Reframe writing to compare and evaluate sources |
 | Weak sources | Poor search strategy | Refine keywords and apply database filters |
-| Plagiarism risk | Improper paraphrasing | Use citation tools and review attribution |
-| Disorganized structure | No thematic grouping | Reorganize sources by theme or argument |
+| Plagiarism risk | Improper paraphrasing and not consistently using citations for specialized information | Use own wording, cite anything that is not general knowledge and review attribution |
+| Disorganized structure | No thematic grouping, fragmented direction | Reorganize sources by theme or argument; ensure body paragraphs have distinct ideas and directions |
 
 ---
 
@@ -141,7 +144,7 @@ This document synthesizes standard academic research practices from:
 
 | Version | Date | Change |
 | :--- | :--- | :--- |
-| 1.0 | April 2026 | Initial release |
+| 1.1 | May 2026 | Expanded content |
 
 ---
 
