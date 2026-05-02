@@ -1,11 +1,11 @@
 # User Guide: Automatic Mechanical Watch Operation
-**Document ID:** SOP-WATCH-001 | **Version:** 1.0 | **Effective Date:** February 2026 | **Status:** Published
+**Document ID:** SOP-WATCH-001 | **Version:** 1.2 | **Effective Date:** February 2026 | **Last Updated:** May 2026 | **Status:** Published
 
 ---
 
-> **Project Profile: Rapid Technical Synthesis**
-> * **Source Material:** 10+ Watch Manufacturer Technical Manuals
-> * **Drafting Window:** 2.5 Hours (Research to Final Review)
+> **Project Profile: Technical Document Synthesis**
+> * **Inputs:** 10+ Watch Manufacturer Technical Manuals
+> * **Drafting Window:** 2.5 Hours (Research to final draft)
 > * **Objective:** Transpose high-complexity mechanical constraints into accessible end-user procedures.
 
 ---
