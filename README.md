@@ -1,35 +1,39 @@
 # Technical Writing Portfolio: Liang-Hu Shieh
 
-This repository contains selected technical writing samples demonstrating structured documentation, governance-aware policy writing, and procedural clarity across operational and regulated environments.
+This repository contains selected writing samples in standard operating procedures, governance briefs, and structured documentation. Samples emphasize clarity, process thinking, and the ability to convert complex source material into usable outputs.
 
-The portfolio reflects 8+ years of experience producing 3,000+ technical deliverables, with a focus on high-velocity synthesis, version control, and regulatory-aligned content.
+The portfolio reflects 8+ years of experience producing 3,000+ structured written deliverables across research, instructional, and analytical formats.
+
+
 
 ---
 
 ## Featured Samples
 
-### 1. [SOP-WATCH-001.md](./SOP-WATCH-001.md)
+### 1. [Watch Handling SOP](./docs/sops/sop-watch-handling.md)
 **Standard Operating Procedure (Operational Sample)**
-* **Demonstrates:** Structured procedural design, risk mitigation (warnings/cautions), and audience-focused clarity for non-expert users.
+* **Highlights:** Structured procedural design, risk mitigation (warnings/cautions), and clear instructions for non-expert users.
 
-### 2. [REP-RISK-GOVERNANCE-BRIEF.md](./REP-RISK-GOVERNANCE-BRIEF.md)
+### 2. [Risk Governance Brief](./docs/governance/risk-governance-brief.md)
 **Policy & Governance Brief (Institutional Sample)**
-* **Demonstrates:** Three Lines of Defence (3LoD) alignment, reputational risk mapping, and executive-ready tone with operational grounding.
+* **Highlights:** Three Lines of Defence (3LoD) alignment, reputational risk mapping, and executive-ready communications.
 
+### 3. [Academic Literature Review](./docs/research/academic-literature-review.md)
+**Academic Research Guide**
+* **Highlights:** Key areas of focus for writing an academic literature review - source evaluation, synthesis, and best practices for writing a coherent academic literature review.
 ---
 
 ## Core Competencies
-* SOP Development & Workflow Mapping
-* Governance & Policy Synthesis
-* Information Architecture & Document Control
-* Regulatory-Aligned Content (AML/FINTRAC/PCMLTFA Awareness)
-* High-Velocity Technical Drafting
-
+* SOP Development and Workflow Documentation
+* Governance, Policy and Research Synthesis
+* Information Architecture and Document Control
+* Compliance Aligned Content (AML/FINTRAC/PCMLTFA Familiarity)
+* Rapid Drafting of Structured Documents
 ---
 
 ## Professional Background
 * **B.Sc.** | University of Toronto
 * **Financial Planning & Compliance Coursework** | Seneca Polytechnic
-* **Experience:** 8+ years producing 3,000+ structured deliverables
-* **Eligibility:** Canadian Citizen | U.S. Citizen (Public Trust Clearable)
+* **Experience:** 8+ years producing high-volume structured written deliverables across research, instructional, and analytical formats
+* **Eligibility:** Dual Canadian Citizen | U.S. Citizen (Public Trust Clearable)
 * **Location:** Toronto, ON / Rockville, MD
