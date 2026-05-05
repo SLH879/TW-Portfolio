@@ -1,16 +1,13 @@
 # Policy Brief: Reputational Risk Governance Framework
-**Document ID:** PB-GRC-2026  
-**Version:** 1.0  
-**Status:** Institutional Reference Sample  
-**Author:** Liang-Hu Shieh  
+**Document ID:** GOV-RISK-001 | **Version:** 1.2 | **Published:** Feb 2026 | **Last Updated:** May 2026 | **Status:** Published
 
 ---
 
 ## 1. Executive Summary
 
-This brief outlines a governance framework for identifying, assessing, and mitigating reputational risk within a federally regulated financial institution. Reputational risk is typically the secondary consequence of operational, compliance, or fiduciary control failures.  
+This brief outlines a governance framework for identifying, assessing, and mitigating reputational risk within a regulated financial institution. 
 
-A structured governance model — supported by documented procedures, defined escalation pathways, and oversight controls — is required to preserve institutional credibility, regulatory standing, and stakeholder trust.
+Reputational risk typically emerges as a secondary consequence of operational, compliance, or fiduciary control failures. A structured governance model, supported by defined responsibilities, escalation pathways, and oversight mechanisms, is required to maintain institutional credibility and regulatory alignment.
 
 ---
 
@@ -20,7 +17,7 @@ Reputational exposure does not arise independently. It is generally triggered by
 
 - **Operational Risk:** Deficiencies in transaction monitoring, recordkeeping, or internal review controls.
 - **Regulatory Risk:** Failure to meet supervisory expectations under applicable regulatory frameworks.
-- **Fiduciary Risk:** Perceived misalignment between institutional decisions and member or stakeholder interests.
+- **Fiduciary Risk:** Misalignment between institutional decisions and stakeholder interests.
 
 Effective documentation must clearly articulate how these risk categories interact and where accountability resides.
 
@@ -75,9 +72,9 @@ All reporting processes must maintain a defensible audit trail.
 To support regulatory defensibility and institutional transparency:
 
 - All policy updates must include version history and documented rationale.
-- Changes to procedures must reference underlying regulatory or policy triggers.
+- Changes to procedures must reference regulatory or policy triggers.
 - Access controls must be clearly defined for sensitive materials.
-- Documentation repositories should support structured review and approval workflows.
+- Documentation repositories should be traceable, supporting structured review and approval workflows.
 
 Consistent formatting, terminology control, and procedural clarity are essential to maintaining governance maturity.
 
@@ -87,7 +84,7 @@ Consistent formatting, terminology control, and procedural clarity are essential
 
 Reputational resilience depends on disciplined documentation, clear accountability structures, and proactive control validation.  
 
-A structured governance framework — supported by transparent procedural documentation — reduces institutional exposure and reinforces long-term fiduciary credibility.
+A formalized control framework reduces institutional exposure and supports long-term regulatory and stakeholder confidence.
 
 ---
 
