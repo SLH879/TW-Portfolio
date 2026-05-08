@@ -1,21 +1,17 @@
 # Employee Onboarding Guide
-
-**Version:** 1.0  
-**Document Type:** Operational Procedure  
-**Status:** Portfolio Sample  
-**Last Updated:** May 2026  
+**Document ID:** SOP-Onboarding-Guide | **Version:** 1.0 | **Effective Date:** May 2026 | **Last Updated:** May 2026 | **Status:** Published
 
 ---
 
 ## 1. Purpose
 
-This document defines the standardized onboarding process for new employees to ensure consistent access to systems, tools, and required operational workflows.
+This document defines the onboarding process for new employees, including account setup, system access requests, and initial task assignments required for operational readiness.
 
 ---
 
 ## 2. Scope
 
-This guide applies to all newly onboarded employees requiring access to:
+This guide applies to all newly onboarded employees who require access to internal systems, communication platforms, and operational tools necessary for role execution:
 
 - Internal communication systems  
 - Document management platforms  
@@ -41,8 +37,8 @@ Before onboarding begins, the following must be completed:
 
 1. Navigate to the corporate email login portal.
 2. Enter credentials provided by IT.
-3. Complete multi-factor authentication (MFA) setup.
-4. Confirm access by sending a test email to your manager.
+3. Complete multi-factor authentication (MFA) setup using an approved authenticating application (e.g., Microsoft Authenticator, Google Authenticator)
+4. Confirm successful access by sending a test email to your manager.
 
 > **Note:** MFA setup is mandatory before access to internal systems is granted.
 
@@ -64,7 +60,7 @@ Ensure access to the following systems:
 - Corporate email platform  
 - Document repository system  
 - Task management system (e.g., Jira)  
-- Internal knowledge base (e.g., Confluence)
+- Internal knowledge base (e.g., Confluence, Sharepoint)
 
 ---
 
@@ -81,9 +77,9 @@ Ensure access to the following systems:
 
 ### 7.1 Unable to Access Email
 
-- Verify credentials  
-- Reset password via IT portal  
-- Contact IT support if unresolved  
+- Verify credentials using the information provided in the onboarding email. Credentials are case-sensitive and must be entered exactly as shown, including spacing.  
+- Reset password via the IT portal by selecting he "forget your password" option on the login landing page. 
+- Contact IT support if the issue persists via internal communications (e.g., email or messaging platform) and the “Contact Us” option on the login page.  
 
 ---
 
