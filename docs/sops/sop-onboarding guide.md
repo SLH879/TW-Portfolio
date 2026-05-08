@@ -11,7 +11,7 @@ This document defines the onboarding process for new employees, including accoun
 
 ## 2. Scope
 
-This guide applies to all newly onboarded employees who require access to internal systems, communication platforms, and operational tools necessary for role execution:
+This guide applies to all newly onboarded employees who require access to internal systems, communication platforms, and operational tools necessary for day-to-day role execution:
 
 - Internal communication systems  
 - Document management platforms  
@@ -78,7 +78,7 @@ Ensure access to the following systems:
 ### 7.1 Unable to Access Email
 
 - Verify credentials using the information provided in the onboarding email. Credentials are case-sensitive and must be entered exactly as shown, including spacing.  
-- Reset password via the IT portal by selecting he "forget your password" option on the login landing page. 
+- Reset password via the IT portal by selecting the "Forgot your password?" option on the login page. 
 - Contact IT support if the issue persists via internal communications (e.g., email or messaging platform) and the “Contact Us” option on the login page.  
 
 ---
@@ -95,7 +95,7 @@ Ensure access to the following systems:
 
 If onboarding issues persist:
 
-1. Contact direct manager  
+1. Contact immediate/direct manager  
 2. Contact IT support desk  
 3. Escalate to HR onboarding coordinator  
 
