@@ -1,6 +1,6 @@
 # Service Maintenance Notice
 
-**Document ID:** COMMS-MAINT-001 | **Version:** 1.0 | **Published:** May 2026 | **Last Updated:** May 2026 | **Status:** Published**
+**Document ID:** COMMS-MAINT-001 | **Version:** 1.0 | **Published:** May 2026 | **Last Updated:** May 2026 | **Status:** Published
 
 ---
 
