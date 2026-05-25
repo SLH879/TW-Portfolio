@@ -1,120 +1,133 @@
 <task>
   <title> User Guide: Automatic Mechanical Watch Operation </title>
-    <prolog> Document ID SOP-WATCH-001 | Version: 1.2 | Effective Date: February 2026 | Last Updated: May 2026 | Status: Published </prolog>
+    <metadata> Document ID SOP-WATCH-001 | Version: 1.1 | Effective Date: February 2026 | Last Updated: May 2026 | Status: Published </metadata>
 
-<section>
+<taskbody>
   <title> Project Profile: Technical Document Synthesis </title>
-  <context> Inputs: 10+ Watch Manufacturer Technical Manuals </note>
-  <context> Drafting Window:** 2.5 Hours (Research to final draft) </context>
-  <context> Objective:** Transpose high-complexity mechanical constraints into accessible end-user procedures. </note>
-</section>
+    <note> Inputs: 10+ Watch Manufacturer Technical Manuals </note>
+    <note> Drafting Window: 2.5 Hours (Research to final draft) </note>
+    <note> Objective: Transpose high-complexity mechanical constraints into accessible end-user procedures. </note>
 
-<section>
-  <title> 1. Purpose </title>
-    This guide provides standardized procedures for the initial setup, daily operation, and long-term maintenance of automatic mechanical watches. 
-</section>
+  <context>
+    <title> 1. Purpose </title>
+      This guide provides standardized procedures for the initial setup, daily operation, and long-term maintenance of automatic mechanical watches. 
   
-<section>
   <title> 2. Scope </title>
-    This guide covers the operations of automatic and mechanical wrist watches with manual winding calendar (day and day) functions. Variations may exist between different make and movement configuration.
-</section>
+      This guide covers the operations of automatic and mechanical wrist watches with manual winding calendar (day and day) functions. Variations may exist between different make and movement configuration.
   
-<section>   
   <title> 3. Entry Criteria </title>
     <p>This procedure may be initiated when:</p>
-   <ul>
+    <ul>
       <li> The watch stops operating after the depletion of its power reserve </li>
       <li> The watch requires manual time and date setting after prolonged period of non-usage </li>
       <li> The end-user wishes to manually adjust the watch to correct the current time and date </li>
-   </ul>
-
-<section>
-  <prereq>
-  <title> 4. Inputs </title>
-   <ul>
-      <li> Automatic mechanical watch in stopped/depleted state </li>
-      <li> Correct date/time reference available </li>
-      <li> User access to crown and adjustment functions </li>
-   </ul>
-   </prereq>
-   </section>
-
-<section>
-  <title> 5. Procedure </title>
-   <title> 5.1 Crown Release </title>
-      <ul>
-         <li> 1. If equipped with a screw-down crown, rotate the crown counter-clockwise until released into the operational position. </li>
-      </ul>
-
-  <title> 5.2 Manual Winding </title>
-    <ul>
-      <li> 1. Rotate the crown clockwise approximately 30–50 turns to restore mainspring tension. </li>
-      <li> 2. Stop winding once resistance stabilizes. </li>
     </ul>
-        <note> Automatic movements typically include a slipping clutch to reduce over-winding risk. </note>
+  </context>  
 
-<section>
-  <title> 6. Exit Criteria </title>
-    <p> This procedure is considered complete when: </p>
+
+  <prereq>
+    <title> 4. Inputs </title>
       <ul>
-        <li> The date and time have been proeprly set </li>
-        <li> The watch has resumed stable operation (seconds hand sweeps clockwise) </li>
-        <li> The crown is screwed back to its original position (position 0 for those with screwdown crowns and position 1 for those without) </li>
+        <li> Automatic mechanical watch in stopped/depleted state </li>
+        <li> Correct date/time reference available </li>
+        <li> User access to crown and adjustment functions </li>
       </ul>
-    </section>
+   </prereq>
 
-<section>
-   <result>
-   <title> 7, Outputs </title>
-   <ul>
-      <li> Watch synchronized to correct date and time </li>
-      <li> Mainspring sufficiently wound </li>
-      <li> Crown returned to secured operating position </li>
-   <li> Watch restored to normal operation </li>
-   </ul>
-   </result>
+  <section>
+    <title> 5. Procedure </title>
+      <section>
+        <title> 5.1 Crown Release </title>
+          <steps>
+            <step>
+              <cmd> 1. If equipped with a screw-down crown, rotate the crown counter-clockwise until released into the operational position. </cmd>
+            </step>
+      </section>
 
-<section>
+      <section>
+        <title> 5.2 Manual Winding </title>
+          <steps>
+            <step>
+              <cmd> 1. Rotate the crown clockwise approximately 30–50 turns to restore mainspring tension. </cmd>
+            </step>
+            <step>
+              <cmd> 2. Stop winding once resistance stabilizes. </cmd>
+            </step>  
+              <note> Automatic movements typically include a slipping clutch to reduce over-winding risk. </note>
+          </steps>
+      </section>
+  </section>
+
+   <section>
+    <title> 6. Exit Criteria </title>
+      <p> This procedure is considered complete when: </p>
+        <ul>
+          <li> The date and time have been properly set </li>
+          <li> The watch has resumed stable operation (seconds hand sweeps clockwise) </li>
+          <li> The crown is screwed back to its original position (position 0 for those with screwdown crowns and position 1 for those without) </li>
+        </ul>
+  </section>
+ 
+  <result>
+    <title> 7. Outputs </title>
+      <ul>
+        <li> Watch synchronized to correct date and time </li>
+        <li> Mainspring sufficiently wound </li>
+        <li> Crown returned to secured operating position </li>
+      </ul>
+  </result>
+
+  <section>
    <title> 8. Safety and Cautionary Notices </title>
+    <note type="warning">
+      <ul>
+        <li> Date Setting Restriction: Avoid adjusting the date mechanism between 9:00 PM and 3:00 AM; 10PM and 2AM; or 11PM and 1PM (depending on the make and model of the watch). </li>
+        <li> Watch restored to normal operation </li>
+      </ul>
+    </note>
 
-<hazardwarning> 
-<title> [WARNING] </title>
-   <ul>
-      <li> **Date Setting Restriction:** Avoid adjusting the date mechanism between **9:00 PM and 3:00 AM; 10PM and 2AM; or 11PM and 1PM** (depending on the make and model of the watch). </li>
-      <li> **Engaging the date-flip gear during this window can cause permanent mechanical failure of the calendar (day/date) wheel. </li>
-   </ul>
-</hazardwarning>
+    <note type="caution">
+      <ul>
+        <li> Water Resistance: Ensure the crown is fully depressed or screwed down before exposure to water. Failure to secure the crown voids all water resistance ratings and may lead to internal oxidation. </li>
+        <li> Fully Stopped: Ensure that the Watch is fully stopped for watches with hackable movements. This does not apply to watches with non-hackable movements (seconds hand will continue moving). </li>
+        <li> Dry Hands: Dry hands are recommended whenever handling a watch with the crown screwed out to reduce risks of moisture getting into the watch. </li>
+        <li> Flat Surface: Flat surface recommended for adjustment to minimize risks of physical damage (e.g, scratches, dents, scuffs). </li>
+      </ul>
+    </note>
+  </section>
 
-<hazardwarning> 
-<title> [CAUTION] </title>
-   <ul>
-      <li> **Water Resistance:** Ensure the crown is fully depressed or screwed down before exposure to water. Failure to secure the crown voids all water resistance ratings and may lead to internal oxidation. </li>
-      <li> **Fully Stopped:** Ensure that the Watch is fully stopped for watches with hackable movements. This does not apply to watches with non-hackable movements (seconds hand will continue moving). </li>
-      <li> **Dry Hands:** Dry hands are recommended whenever handling a watch with the crown screwed out to reduce risks of moisture getting into the watch. </li>
-      <li> **Flat Surface:** Flat surface recommended for adjustment to minimize risks of physical damage (e.g, scratches, dents, scuffs). </li>
-   </ul>
-</hazardwarning>
+  <section>
+    <title> 9. Initial Setup Procedure (From "Dead" State) </title>
+      <p>Follow these steps to re-engage the mainspring and synchronize time after a period of non-wear:</p>
+   
+    <steps>
+      </step>
+        <cmd> Unsecure the Crown: If equipped with a screw-down crown, rotate it counter-clockwise until it "pops" out from Position 0 (innermost position) into Position 2 (outermost position). </cmd>
+      </step>
+      <step>
+        <cmd> Manual Wind: Rotate the crown clockwise 30–50 full turns (this depends on mainspring tension). </cmd>
+          <note> Note: Automatic movements feature a sliding clutch to prevent over-winding; this is largely absent in mechanical hand-wound watches.*  </note>
+      </step>
+      <step>
+        <cmd> Set Reference Time: Pull the crown to its outermost position (Position 2). Rotate the   hands forward until the date changes to identify the midnight transition point. For many watches without instant date change capability, the date flip wheel will remain in a partially engaged state between approximately 11pm to 1am. To ensure a safe window for date adjustment, set the time to 6:00 AM.  </cmd>
+      </step>
+      <step> 
+        <cmd> Set Date: Push the crown to Position 1. Rotate the crown (usually clockwise for date, and counter-clockwise for day of the week) to the current numerical date. </cmd>
+      </step>
+      <step>
+        <cmd> Final Secure: Push the crown back to Position 0. If applicable, screw the crown down firmly to ensure a water-tight seal. </cmd>
+      </step>
+   </steps>
+  </section>
 
-<section>
-   <title> 9. Initial Setup Procedure (From "Dead" State) </title>
-   <p>Follow these steps to re-engage the mainspring and synchronize time after a period of non-wear:</p>
-   <ul>
-      <li> **Unsecure the Crown:** If equipped with a screw-down crown, rotate it counter-clockwise until it "pops" out from **Position 0 (innermost position)** into **Position 2 (outermost position)**. </li>
-      <li> **Manual Wind:** Rotate the crown clockwise 30–50 full turns (this depends on mainspring tension). </li>
-         <note> Note: Automatic movements feature a sliding clutch to prevent over-winding; this is largely absent in mechanical hand-wound watches.*  </note>
-      <li> Set Reference Time:** Pull the crown to its outermost position (**Position 2**). Rotate the hands forward until the date changes to identify the midnight transition point. For many watches without instant date change capability, the date flip wheel will remain in a partially engaged state between approximately 11pm to 1am. To ensure a safe window for date adjustment, set the time to **6:00 AM**.  </li>
-      <li> Set Date:** Push the crown to **Position 1**. Rotate the crown (usually clockwise for date, and counter-clockwise for day of the week) to the current numerical date. </li>
-      <li> Final Secure:** Push the crown back to **Position 0**. If applicable, screw the crown down firmly to ensure a water-tight seal. </li>
-   </ul>
-</section>
 
-<section>
-  <title>10. Technical Specifications and Expectations</title>
-
-  <p>The following table lists standard performance and maintenance expectations.</p>
+  <section>
+    <title>10. Technical Specifications and Expectations</title>
+      <p>The following table lists standard performance and maintenance expectations.</p>
+  </section>
 
   <table>
-    <title>Technical Specifications</title>
+    <title>11. Technical Specifications</title>
 
     <tgroup cols="2">
       <thead>
@@ -143,8 +156,9 @@
     </tgroup>
   </table>
 
+  
   <table>
-    <title>Crown Positions</title>
+    <title>12. Crown Positions</title>
 
     <tgroup cols="2">
       <thead>
@@ -170,15 +184,14 @@
           <entry>Time setting; hack function engaged if applicable</entry>
         </row>
       </tbody>
-    </tgroup>
-  </table>
-</section>
+      </tgroup>
+    </table>
+  </section>
 
-<section>
  <table>
     <title>11. Troubleshooting</title>
 
-    <tgroup cols="4">
+    <tgroup cols="3">
       <thead>
         <row>
           <entry>Symptom</entry>
@@ -197,7 +210,7 @@
         <row>
           <entry>Significant Time Gain</entry>
           <entry>Magnetization</entry>
-          <entry> Use a degmagnetizing/degaussing tool or visit a watchmaker.</entry>
+          <entry> Use a demagnetizing/degaussing tool or visit a watchmaker.</entry>
         </row>
 
         <row>
@@ -208,14 +221,15 @@
 
         <row>
            <entry> Watch runs slow </entry>
-           <entry> Possible magnetiziation or lubrication issue </entry>
-           <entry> Deguass, or visit a certified watchmaker. </entry>
+           <entry> Possible magnetization or lubrication issue </entry>
+           <entry> Degauss, or visit a certified watchmaker. </entry>
+        </row>
+
       </tbody>
     </tgroup>
   </table>
-</section>
 
-<section>
+  <section>
    <title> 12. References </title>
 
    <ul>
@@ -224,7 +238,10 @@
             <li> Seiko 4R and 5R caliber user guides </li>
             <li> Grand Seiko 9S85 and 87 instructions </li>
             <li> General Watch servicing guidelines from watchmaking manuals </li>
+    </ul>
+  </section>
 
 ---
    <p> For portfolio purposes only. </p>
+</taskbody>
 </task>
