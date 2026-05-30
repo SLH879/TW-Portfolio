@@ -1,8 +1,8 @@
 # Technical Writing Portfolio: Liang-Hu Shieh
 
-This repository contains selected writing samples in standard operating procedures, governance briefs, and structured documentation. Samples emphasize clarity, process thinking, and the ability to convert complex source material into usable outputs.
+This repository contains selected writing samples in standard operating procedures, governance briefs, and structured documentation. Samples demonstrate procedural writing, workflow documentation, governance communications, and structured content development for technical and non-technical audiences.
 
-The portfolio reflects 8+ years of experience producing 3,000+ structured written deliverables across research, instructional, and analytical formats.
+This portfolio reflects 8+ years of documentation and content-development experience, including the production of 3,000+ structured deliverables across research, instructional, governance, and procedural formats.
 
 
 
@@ -24,16 +24,16 @@ The portfolio reflects 8+ years of experience producing 3,000+ structured writte
 ---
 
 ## Core Competencies
-* SOP Development and Workflow Documentation
-* Governance, Policy and Research Synthesis
-* Information Architecture and Document Control
-* Compliance Aligned Content (AML/FINTRAC/PCMLTFA Familiarity)
-* Rapid Drafting of Structured Documents
+* SOP Development & Process Documentation
+* Workflow Documentation & Process Mapping
+* Governance, Risk & Compliance Communications
+* Information Architecture & Document Control
+* Markdown & Structured Authoring Workflows
 ---
 
 ## Professional Background
 * **B.Sc.** | University of Toronto
 * **Financial Planning & Compliance Coursework** | Seneca Polytechnic
 * **Experience:** 8+ years producing high-volume structured written deliverables across research, instructional, and analytical formats
-* **Eligibility:** Dual Canadian Citizen | U.S. Citizen (Public Trust Clearable)
+* **Eligibility:** Dual Canadian-U.S. Citizen
 * **Location:** Toronto, ON / Rockville, MD
