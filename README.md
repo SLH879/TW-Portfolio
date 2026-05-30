@@ -36,6 +36,9 @@ This portfolio reflects 8+ years of documentation and content-development experi
 * GitHub
 * VS Code
 * XML Structured Authoring Concepts
+* Adobe Acrobat/Photoshop
+* Lucidchart
+* MS Office
 * Process Mapping & Workflow Documentation
 ---
 
