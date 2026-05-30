@@ -31,9 +31,17 @@ This portfolio reflects 8+ years of documentation and content-development experi
 * Markdown & Structured Authoring Workflows
 ---
 
+## Documentation Tools
+* Markdown
+* GitHub
+* VS Code
+* XML Structured Authoring Concepts
+* Process Mapping & Workflow Documentation
+---
+
 ## Professional Background
 * **B.Sc.** | University of Toronto
-* **Financial Planning & Compliance Coursework** | Seneca Polytechnic
+* **Financial Planning & Compliance Graduate Certificates** | Seneca Polytechnic
 * **Experience:** 8+ years producing high-volume structured written deliverables across research, instructional, and analytical formats
 * **Eligibility:** Dual Canadian-U.S. Citizen
 * **Location:** Toronto, ON / Rockville, MD
