@@ -4,8 +4,6 @@ This repository contains selected writing samples in standard operating procedur
 
 This portfolio reflects 8+ years of documentation and content-development experience, including the production of 3,000+ structured deliverables across research, instructional, governance, and procedural formats.
 
-
-
 ---
 
 ## Featured Samples
