@@ -1,4 +1,4 @@
-# Technical Writing Portfolio: Liang-Hu Shieh
+# Technical Writing Portfolio: Liang-Hu S
 
 This repository contains selected writing samples in standard operating procedures, governance briefs, and structured documentation. Samples demonstrate procedural writing, workflow documentation, governance communications, and structured content development for technical and non-technical audiences.
 
