@@ -21,22 +21,45 @@ This portfolio reflects 8+ years of documentation and content-development experi
 * **Highlights:** Key areas of focus for writing an academic literature review - source evaluation, synthesis, and best practices for writing a coherent academic literature review.
 ---
 
+## Repository Structure
+
+This repository is organized by documentation type to support maintainability, discoverability, and version control.
+
+```text
+Communication
+├── Service Maintenance Notice
+└── Member Security Notification
+
+Governance
+├── Risk Governance Brief
+└── AML Transaction Escalation Report
+
+Research
+└── Academic Literature Review
+
+SOPs
+├── Employee Onboarding Guide
+└── Watch Handling SOP
+```
+---
+
 ## Core Competencies
 * SOP Development & Process Documentation
 * Workflow Documentation & Process Mapping
 * Governance, Risk & Compliance Communications
 * Information Architecture & Document Control
-* Markdown & Structured Authoring Workflows
+* Markdown, XML, GitHub & Docs-as-Code Workflows
 ---
 
 ## Documentation Tools
+
 * Markdown
 * GitHub
 * VS Code
 * XML Structured Authoring Concepts
+* MS Office
 * Adobe Acrobat/Photoshop
 * Lucidchart
-* MS Office
 * Process Mapping & Workflow Documentation
 ---
 
