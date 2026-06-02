@@ -1,5 +1,5 @@
 # AML Transaction Monitoring Escalation Report
-**Document ID:** GOV-AML-001 | **Version:** 1.0 | **Effective Date:** November 2025 | **Last Updated:** May 2026 | **Status:** Published
+**Document ID:** GOV-AML-001 | **Version:** 2.0 | **Published:** November 2025 | **Last Updated:** May 2026 | **Status:** Published
 
 ---
 
@@ -29,7 +29,7 @@ This assessment applies to transaction monitoring, customer activity review, and
 | Customer Name | Mr. J Wong |
 | Age | 33 |
 | Occupation | Computer Engineer |
-| Relationship | Existing casino patron |
+| Relationship | Existing, frequent casino patron |
 | Historical Activity | Recreational gambling activity with moderate buy-ins and consistent play patterns |
 
 ---
@@ -57,12 +57,12 @@ Historical activity primarily involved blackjack and slot play over extended per
 
 The following indicators contributed to escalation concerns:
 
+- Transaction behaviour inconsistent with past customer patterns and stated occupation
 - Repeated cash transactions conducted immediately below the $10,000 CAD reporting threshold
 - Consecutive high-value cash buy-ins over multiple days
 - Predominant use of small denomination currency
 - Minimal gaming activity relative to chip purchase volume
 - Redemption request through bank draft payout
-- Transaction behaviour inconsistent with historical customer patterns and stated occupation
 
 When viewed collectively, these indicators suggest potential structuring behaviour intended to avoid reporting thresholds, followed by possible layering activity through conversion of cash into negotiable financial instruments.
 
@@ -113,4 +113,5 @@ Observed activity patterns support escalation for suspicious transaction review 
 
 | Version | Date | Description |
 |---|---|---|
-| 1.0 | May 2026 | Initial portfolio adaptation from AML coursework case study |
+| 1.0 | Nov 2025 | Initial write-up concluded from AML case study
+| 2.0 | May 2026 | Pzortfolio adaptation |
