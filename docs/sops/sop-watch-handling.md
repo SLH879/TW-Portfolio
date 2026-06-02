@@ -31,8 +31,6 @@ This procedure may be initiated when:
 ### 5.1 Crown Release
 1. If equipped with a screw-down crown, rotate the crown counter-clockwise until released into the operational position.
 
----
-
 ### 5.2 Manual Winding
 1. Rotate the crown clockwise approximately 30–50 turns to restore mainspring tension.
 2. Stop winding once resistance stabilizes.
@@ -95,6 +93,7 @@ Follow these steps to re-engage the mainspring and synchronize time after a peri
 | Date fails to flip | Improper setup of date | Repeat Step 3 of the Setup Procedure. |
 | Watch runs slow | Possible magnetization or lubrication issue | Degauss, or visit a certified watchmaker. | 
 
+---
 ## 12. References
 - Rolex Oyster Perpetual technical documentation (movement handling conventions)
 - ETA 2824-2 / Sellita SW200 service manuals (generic automatic movement behavior)
