@@ -6,6 +6,14 @@ This portfolio reflects 8+ years of documentation and content-development experi
 
 ---
 
+## Documentation Lifecycle
+
+The following diagram illustrates a typical documentation development workflow.
+
+![Documentation Lifecycle](./docs/diagrams/documentation-lifecycle.png)
+
+---
+
 ## Featured Samples
 
 ### 1. [Watch Handling SOP](./docs/sops/sop-watch-handling.md)
@@ -44,6 +52,7 @@ SOPs
 ---
 
 ## Core Competencies
+
 * SOP Development & Process Documentation
 * Workflow Documentation & Process Mapping
 * Governance, Risk & Compliance Communications
@@ -64,6 +73,7 @@ SOPs
 ---
 
 ## Professional Background
+
 * **B.Sc.** | University of Toronto
 * **Financial Planning & Compliance Graduate Certificates** | Seneca Polytechnic
 * **Experience:** 8+ years producing high-volume structured written deliverables across research, instructional, and analytical formats
