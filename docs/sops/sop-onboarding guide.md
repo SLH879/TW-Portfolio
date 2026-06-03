@@ -1,5 +1,5 @@
 # Employee Onboarding Guide
-**Document ID:** SOP-Onboarding-Guide | **Version:** 1.0 | **Effective Date:** May 2026 | **Last Updated:** May 2026 | **Status:** Published
+**Document ID:** SOP-Onboarding-001 | **Version:** 1.1 | **Effective Date:** May 2026 | **Last Updated:** June 2026 | **Status:** Published
 
 ---
 
@@ -11,7 +11,7 @@ This document defines the onboarding process for new employees, including accoun
 
 ## 2. Scope
 
-This guide applies to all newly onboarded employees who require access to internal systems, communication platforms, and operational tools necessary for day-to-day role execution:
+This guide applies to all newly onboarded employees who require access to internal systems, communication platforms, and operational tools necessary for day-to-day execution of tasks:
 
 - Internal communication systems  
 - Document management platforms  
@@ -20,20 +20,26 @@ This guide applies to all newly onboarded employees who require access to intern
 
 ---
 
-## 3. Prerequisites
+## 3. Workflow Diagram
+
+![Onboarding Workflow Diagram](../diagrams/onboarding-workflow.png)
+
+---
+
+## 4. Prerequisites
 
 Before onboarding begins, the following must be completed:
 
 - Signed employment agreement submitted
 - HR profile created and activated
 - Manager assignment confirmed
-- Corporate email provisioned
+- Corporate email provided
 
 ---
 
-## 4. Account Setup
+## 5. Account Setup
 
-### 4.1 Corporate Email Access
+### 5.1 Corporate Email Access
 
 1. Navigate to the corporate email login portal.
 2. Enter credentials provided by IT.
@@ -41,10 +47,11 @@ Before onboarding begins, the following must be completed:
 4. Confirm successful access by sending a test email to your manager.
 
 > **Note:** MFA setup is mandatory before access to internal systems is granted.
+> **Note:** Alternatively, employees are allowed to use text messages or phone verification on top of MFA.
 
 ---
 
-### 4.2 Internal System Access
+### 5.2 Internal System Access
 
 1. Log into the employee portal.
 2. Navigate to “Access Requests.”
@@ -53,7 +60,7 @@ Before onboarding begins, the following must be completed:
 
 ---
 
-## 5. Required Tools Setup
+## 6. Required Tools Setup
 
 Ensure access to the following systems:
 
@@ -64,7 +71,7 @@ Ensure access to the following systems:
 
 ---
 
-## 6. Initial Onboarding Tasks (First 48 Hours)
+## 7. Initial Onboarding Tasks (First 48 Hours)
 
 - Complete onboarding checklist in HR system  
 - Review internal SOP repository  
@@ -73,9 +80,9 @@ Ensure access to the following systems:
 
 ---
 
-## 7. Troubleshooting
+## 8. Troubleshooting
 
-### 7.1 Unable to Access Email
+### 8.1 Unable to Access Email
 
 - Verify credentials using the information provided in the onboarding email. Credentials are case-sensitive and must be entered exactly as shown, including spacing.  
 - Reset password via the IT portal by selecting the "Forgot your password?" option on the login page. 
@@ -83,7 +90,7 @@ Ensure access to the following systems:
 
 ---
 
-### 7.2 Missing System Permissions
+### 8.2 Missing System Permissions
 
 - Confirm manager approval status  
 - Submit access request ticket  
@@ -91,7 +98,7 @@ Ensure access to the following systems:
 
 ---
 
-## 8. Escalation Path
+## 9. Escalation Path
 
 If onboarding issues persist:
 
@@ -101,10 +108,19 @@ If onboarding issues persist:
 
 ---
 
-## 9. Completion Criteria
+## 10. Completion Criteria
 
 Onboarding is considered complete when:
 
 - All required system access is granted  
 - Mandatory training modules are completed  
-- Manager confirms operational readiness  
+- Manager confirms operational readiness
+
+---
+
+## 11. Revision History
+
+| Date | Version Number | Description |
+| --- | ---- | --- |
+| May 2026 | v1.0 | Initial Release |
+| June 2026 | v1.1 | Diagrams and formatting revisions |
