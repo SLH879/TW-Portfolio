@@ -1,5 +1,5 @@
 # Employee Password Reset Guide
-**Title:** SOP-Password-001 | **Effective Date:** June 2026 | **Last Updated:** June 2026 | **Status:** Published |
+**Title:** SOP-Password-001 | **Version:** 1.0 | **Effective Date:** June 2026 | **Last Updated:** June 2026 | **Status:** Published |
 
 
 # Purpose
@@ -79,5 +79,6 @@ Before an employee can proceed with resetting their passwords, the following cri
 > **Account Lockouts:** Can potentially trigger prolonged account lockouts.
 
 # Revision History
-| Date | Version # |
-| June 2026 | V1.0 |
+| Date | Version | Description |
+| --- | ---- | ----|
+| June 2026 | V1.0 | Initial Release |
