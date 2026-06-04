@@ -22,7 +22,7 @@ This guide applies to all newly onboarded employees who require access to intern
 
 ## 3. Workflow Diagram
 
-![Onboarding Workflow Diagram](../diagrams/onboarding-workflow.png)
+![Onboarding Workflow](../diagrams/onboarding-workflow.png)
 
 ---
 
