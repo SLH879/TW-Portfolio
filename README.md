@@ -8,7 +8,7 @@ This portfolio reflects 8+ years of documentation and content-development experi
 
 ## Documentation Lifecycle
 
-The following diagram illustrates a typical documentation development workflow.
+This diagram illustrates my documentation development workflow from requirements gathering through publication.
 
 ![Documentation Lifecycle](./docs/diagrams/documentation-lifecycle.png)
 
@@ -34,20 +34,26 @@ The following diagram illustrates a typical documentation development workflow.
 This repository is organized by documentation type to support maintainability, discoverability, and version control.
 
 ```text
-Communication
-├── Service Maintenance Notice
-└── Member Security Notification
-
-Governance
-├── Risk Governance Brief
-└── AML Transaction Escalation Report
-
-Research
-└── Academic Literature Review
-
-SOPs
-├── Employee Onboarding Guide
-└── Watch Handling SOP
+technical-writing-portfolio/ 
+├── README.md 
+├── CHANGELOG.md 
+├── docs/ 
+│   ├── communication/ 
+│   │ ├── service-maintenance-notice.md 
+│   │ └── member-security-notification.md 
+│   ├── governance/ 
+│   │ ├── risk-governance-brief.md 
+│   │ └── aml-transaction-escalation-report.md 
+│   ├── research/ 
+│   │ └── academic-literature-review.md 
+│   └── sops/ 
+│       ├── sop-onboarding-guide.md 
+│       └── sop-watch-handling.md 
+|       └── sop-password-reset.md
+|   └── diagrams/
+│       ├── documentation-lifecycle.png
+│       └── onboarding-workflow.png
+│       └── password-reset.png
 ```
 ---
 
@@ -63,7 +69,7 @@ SOPs
 ## Documentation Tools
 
 * Markdown
-* GitHub
+* GitHub/Git
 * VS Code
 * XML Structured Authoring Concepts
 * MS Office
