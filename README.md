@@ -9,7 +9,7 @@ This portfolio reflects 8+ years of documentation and content-development experi
 ## Featured Samples
 
 ### 1. [Employee Onboarding Guide SOP](./docs/sops/sop-onboarding-guide.md)
-**Standard Operating Procedure (Operational Sample)**
+**Process & Workflow Documentation Sample**
 * **Highlights:** Onboarding workflow design, system access provisioning, troubleshooting guidance, process mapping, and user-focused procedural writing.
 
 ### 2. [Risk Governance Brief](./docs/governance/risk-governance-brief.md)
@@ -17,7 +17,7 @@ This portfolio reflects 8+ years of documentation and content-development experi
 * **Highlights:** Three Lines of Defence (3LoD) alignment, reputational risk mapping, and executive-ready communications.
 
 ### 3. [Password Reset SOP](./docs/sops/sop-password-reset.md)
-**Academic Research Guide**
+**Technical Procedure Sample**
 * **Highlights:** Structured procedural writing, troubleshooting workflows, completion criteria, process mapping, and end-user support documentation..
 ---
 
