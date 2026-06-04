@@ -3,30 +3,21 @@
 This repository contains selected writing samples in standard operating procedures, governance briefs, and structured documentation. Samples demonstrate procedural writing, workflow documentation, governance communications, and structured content development for technical and non-technical audiences.
 
 This portfolio reflects 8+ years of documentation and content-development experience, including the production of 3,000+ structured deliverables across research, instructional, governance, and procedural formats.
-
----
-
-## Documentation Lifecycle
-
-This diagram illustrates my documentation development workflow from requirements gathering through publication.
-
-![Documentation Lifecycle](./docs/diagrams/documentation-lifecycle.png)
-
 ---
 
 ## Featured Samples
 
-### 1. [Watch Handling SOP](./docs/sops/sop-watch-handling.md)
+### 1. [Employee Onboarding Guide SOP](./docs/sops/sop-onboarding-guide.md)
 **Standard Operating Procedure (Operational Sample)**
-* **Highlights:** Structured procedural design, risk mitigation (warnings/cautions), and clear instructions for non-expert users.
+* **Highlights:** Onboarding workflow design, system access provisioning, troubleshooting guidance, process mapping, and user-focused procedural writing.
 
 ### 2. [Risk Governance Brief](./docs/governance/risk-governance-brief.md)
 **Policy & Governance Brief (Institutional Sample)**
 * **Highlights:** Three Lines of Defence (3LoD) alignment, reputational risk mapping, and executive-ready communications.
 
-### 3. [Academic Literature Review](./docs/research/academic-literature-review.md)
+### 3. [Password Reset SOP](./docs/sops/sop-password-reset.md)
 **Academic Research Guide**
-* **Highlights:** Key areas of focus for writing an academic literature review - source evaluation, synthesis, and best practices for writing a coherent academic literature review.
+* **Highlights:** Structured procedural writing, troubleshooting workflows, completion criteria, process mapping, and end-user support documentation..
 ---
 
 ## Repository Structure
@@ -59,11 +50,11 @@ technical-writing-portfolio/
 
 ## Core Competencies
 
-• SOP Development & Process Documentation
-• Workflow Documentation, Process Mapping & Information Architecture
-• Governance, Risk & Compliance Communications
-• Document Control & Revision Management
-• Markdown, XML & Docs-as-Code Workflows
+* SOP Development & Process Documentation
+* Workflow Documentation, Process Mapping & Information Architecture
+* Governance, Risk & Compliance Communications
+* Document Control & Revision Management
+* Markdown, XML & Docs-as-Code Workflows
 ---
 
 ## Documentation Tools
@@ -85,3 +76,10 @@ technical-writing-portfolio/
 * **Experience:** 8+ years producing high-volume structured written deliverables across research, instructional, and analytical formats
 * **Eligibility:** Dual Canadian-U.S. Citizen
 * **Location:** Toronto, ON / Rockville, MD
+---
+
+## Documentation Lifecycle
+
+This diagram illustrates my documentation development workflow from requirements gathering through publication.
+
+![Documentation Lifecycle](./docs/diagrams/documentation-lifecycle.png)
