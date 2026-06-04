@@ -34,36 +34,36 @@ This diagram illustrates my documentation development workflow from requirements
 This repository is organized by documentation type to support maintainability, discoverability, and version control.
 
 ```text
-technical-writing-portfolio/ 
-├── README.md 
-├── CHANGELOG.md 
-├── docs/ 
-│   ├── communication/ 
-│   │ ├── service-maintenance-notice.md 
-│   │ └── member-security-notification.md 
-│   ├── governance/ 
-│   │ ├── risk-governance-brief.md 
-│   │ └── aml-transaction-escalation-report.md 
-│   ├── research/ 
-│   │ └── academic-literature-review.md 
-│   └── sops/ 
-│       ├── sop-onboarding-guide.md 
-│       └── sop-watch-handling.md 
-|       └── sop-password-reset.md
-|   └── diagrams/
+technical-writing-portfolio/
+├── README.md
+├── CHANGELOG.md
+├── docs/
+│   ├── communication/
+│   │   ├── service-maintenance-notice.md
+│   │   └── member-security-notification.md
+│   ├── governance/
+│   │   ├── risk-governance-brief.md
+│   │   └── aml-transaction-escalation-report.md
+│   ├── research/
+│   │   └── academic-literature-review.md
+│   ├── sops/
+│   │   ├── sop-onboarding-guide.md
+│   │   ├── sop-watch-handling.md
+│   │   └── sop-password-reset.md
+│   └── diagrams/
 │       ├── documentation-lifecycle.png
-│       └── onboarding-workflow.png
+│       ├── onboarding-workflow.png
 │       └── password-reset.png
 ```
 ---
 
 ## Core Competencies
 
-* SOP Development & Process Documentation
-* Workflow Documentation & Process Mapping
-* Governance, Risk & Compliance Communications
-* Information Architecture & Document Control
-* Markdown, XML, GitHub & Docs-as-Code Workflows
+• SOP Development & Process Documentation
+• Workflow Documentation, Process Mapping & Information Architecture
+• Governance, Risk & Compliance Communications
+• Document Control & Revision Management
+• Markdown, XML & Docs-as-Code Workflows
 ---
 
 ## Documentation Tools
@@ -74,8 +74,8 @@ technical-writing-portfolio/
 * XML Structured Authoring Concepts
 * MS Office
 * Adobe Acrobat/Photoshop
-* Lucidchart
-* Process Mapping & Workflow Documentation
+* Lucidchart/draw.io
+* Jira & Confluence
 ---
 
 ## Professional Background
