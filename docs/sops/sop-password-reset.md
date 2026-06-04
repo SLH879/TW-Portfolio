@@ -32,7 +32,7 @@ Before an employee can proceed with resetting their passwords, the following cri
 - Approved MFA applications (Google, Microsoft Authenticators) intalled on cellphone for verification
 
 
-# Proecedure
+# Procedure
 ## Resetting through company website
 1. Go to company website's login page
 2. Click on the reset password option below the username and password textboxes
@@ -54,7 +54,7 @@ Before an employee can proceed with resetting their passwords, the following cri
 
 # Outputs
 - Employee has received the reset email
-- Employee has successfully resetted their passwords
+- Employee has successfully reset their passwords
 - Accomplished either through the website, software, or the support of helpdesk agent 
 
 
@@ -76,7 +76,7 @@ Before an employee can proceed with resetting their passwords, the following cri
 
 >[!WARNING]
 > Avoid repeatedly trying to login with the wrong/failed password. Should any of the potential problems above be experienced, seek technical support from helpdesk.
-> **Account Lockouts:** Can triggered prolonged account lockouts.
+> **Account Lockouts:** Can potentially trigger prolonged account lockouts.
 
 # Revision History
 | Date | Version # |
