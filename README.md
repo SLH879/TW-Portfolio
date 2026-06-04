@@ -3,6 +3,7 @@
 This repository contains selected writing samples in standard operating procedures, governance briefs, and structured documentation. Samples demonstrate procedural writing, workflow documentation, governance communications, and structured content development for technical and non-technical audiences.
 
 This portfolio reflects 8+ years of documentation and content-development experience, including the production of 3,000+ structured deliverables across research, instructional, governance, and procedural formats.
+
 ---
 
 ## Featured Samples
