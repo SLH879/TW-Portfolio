@@ -81,6 +81,6 @@ technical-writing-portfolio/
 
 ## Documentation Lifecycle
 
-This diagram illustrates my documentation development workflow from requirements gathering through publication.
+This diagram illustrates my documentation development workflow from requirements gathering through final publication.
 
-![Documentation Lifecycle](./docs/diagrams/documentation-lifecycle.png)
+![Documentation Workflow](./docs/diagrams/documentation-lifecycle.png)
