@@ -1,12 +1,5 @@
 # User Guide: Automatic Mechanical Watch Operation
-**Document ID:** SOP-WATCH-001 | **Version:** 1.2 | **Effective Date:** February 2026 | **Last Updated:** May 2026 | **Status:** Published
-
----
-
-> **Project Profile: Technical Document Synthesis**
-> * **Inputs:** 10+ Watch Manufacturer Technical Manuals
-> * **Drafting Window:** 2.5 Hours (Research to final draft)
-> * **Objective:** Transpose high-complexity mechanical constraints into accessible end-user procedures.
+**Document ID:** SOP-WATCH-001 | **Version:** 1.2 | **Initial Date:** February 2026 | **Last Updated:** May 2026 | **Status:** Published
 
 ---
 
@@ -102,4 +95,8 @@ Follow these steps to re-engage the mainspring and synchronize time after a peri
 - General watch servicing guidelines from independent watchmaking manuals  
 
 ---
-*For portfolio purposes only.*
+
+> **Project Profile: Technical Document Synthesis**
+> * **Inputs:** 10+ Watch Manufacturer Technical Manuals
+> * **Drafting Window:** 2.5 Hours (Research to final draft)
+> * **Objective:** Transpose high-complexity mechanical constraints into accessible end-user procedures.

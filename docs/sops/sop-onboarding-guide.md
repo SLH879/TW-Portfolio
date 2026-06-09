@@ -1,13 +1,11 @@
 # Employee Onboarding Guide
-**Document ID:** SOP-Onboarding-001 | **Version:** 1.1 | **Effective Date:** May 2026 | **Last Updated:** June 2026 | **Status:** Published
+**Document ID:** SOP-Onboarding-001 | **Version:** 1.1 | **Initial Date:** May 2026 | **Last Updated:** June 2026 | **Status:** Published
 
 ---
 
 ## 1. Purpose
 
 This document defines the onboarding process for new employees, including account setup, system access requests, and initial task assignments required for operational readiness.
-
----
 
 ## 2. Scope
 
@@ -18,13 +16,11 @@ This guide applies to all newly onboarded employees who require access to intern
 - Task tracking systems  
 - Core operational tools  
 
----
 
 ## 3. Workflow Diagram
 
 ![Onboarding Workflow](../diagrams/onboarding-workflow.png)
 
----
 
 ## 4. Prerequisites
 
@@ -35,7 +31,6 @@ Before onboarding begins, the following must be completed:
 - Manager assignment confirmed
 - Corporate email provided
 
----
 
 ## 5. Account Setup
 
@@ -46,10 +41,9 @@ Before onboarding begins, the following must be completed:
 3. Complete multi-factor authentication (MFA) setup using an approved authenticating application (e.g., Microsoft Authenticator, Google Authenticator)
 4. Confirm successful access by sending a test email to your manager.
 
-> **Note:** MFA setup is mandatory before access to internal systems is granted.
+> **Note:** MFA setup is mandatory before access to internal accounts is granted.
 > **Note:** Alternatively, employees are allowed to use text messages or phone verification on top of MFA.
 
----
 
 ### 5.2 Internal System Access
 
@@ -58,7 +52,6 @@ Before onboarding begins, the following must be completed:
 3. Submit requests for required systems (e.g., document repository, task tracking tools).
 4. Await approval notification from system administrator.
 
----
 
 ## 6. Required Tools Setup
 
@@ -69,7 +62,6 @@ Ensure access to the following systems:
 - Task management system (e.g., Jira)  
 - Internal knowledge base (e.g., Confluence, Sharepoint)
 
----
 
 ## 7. Initial Onboarding Tasks (First 48 Hours)
 
@@ -78,7 +70,6 @@ Ensure access to the following systems:
 - Join team communication channels  
 - Attend onboarding/orientation session (if scheduled)  
 
----
 
 ## 8. Troubleshooting
 
@@ -88,15 +79,12 @@ Ensure access to the following systems:
 - Reset password via the IT portal by selecting the "Forgot your password?" option on the login page. 
 - Contact IT support if the issue persists via internal communications (e.g., email or messaging platform) and the “Contact Us” option on the login page.  
 
----
-
 ### 8.2 Missing System Permissions
 
 - Confirm manager approval status  
 - Submit access request ticket  
 - Escalate if no response within 2 business days  
 
----
 
 ## 9. Escalation Path
 
@@ -106,7 +94,6 @@ If onboarding issues persist:
 2. Contact IT support desk  
 3. Escalate to HR onboarding coordinator  
 
----
 
 ## 10. Completion Criteria
 
@@ -115,6 +102,13 @@ Onboarding is considered complete when:
 - All required system access is granted  
 - Mandatory training modules are completed  
 - Manager confirms operational readiness
+
+---
+
+## Related Documentation
+
+- [Account Provisioning Guide](./sop-account-provision.md)
+- [Password Reset SOP](./sop-password-reset.md)
 
 ---
 

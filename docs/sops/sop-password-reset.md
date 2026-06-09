@@ -1,5 +1,5 @@
 # Employee Password Reset Guide
-**Title:** SOP-Password-001 | **Version:** 1.0 | **Effective Date:** June 2026 | **Last Updated:** June 2026 | **Status:** Published |
+**Title:** SOP-Password-001 | **Version:** 1.0 | **Initial Date:** June 2026 | **Last Updated:** June 2026 | **Status:** Published |
 
 
 # Purpose
@@ -77,6 +77,14 @@ Before an employee can proceed with resetting their passwords, the following cri
 >[!WARNING]
 > Avoid repeatedly trying to login with the wrong/failed password. Should any of the potential problems above be experienced, seek technical support from helpdesk.
 > **Account Lockouts:** Can potentially trigger prolonged account lockouts.
+
+---
+## Related Documentation
+
+- [Employee Onboarding Guide](./sop-onboarding-guide.md)
+- [Account Provisioning Guide](./sop-account-provision.md)
+
+---
 
 # Revision History
 | Date | Version | Description |
