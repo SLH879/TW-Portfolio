@@ -1,5 +1,5 @@
 # Account Provisioning Guide 
-| **Document ID:** SOP-Account-Provision | **Version:** 1.0 | **Initial Date:** June 2026 | **Published Date:** June 2026 |
+**Document ID:** SOP-Account-Provision | **Version:** 1.0 | **Initial Date:** June 2026 | **Published Date:** June 2026
 
 
 # Purpose

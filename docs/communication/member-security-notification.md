@@ -28,3 +28,9 @@ Members who do not complete verification may experience temporary restrictions o
 > **Important:** **Company name** will never request passwords, verification codes, or full account credentials through email or text message.
 
 If you require assistance, please contact Member Services through the official support portal or customer support line.
+
+## Revision History
+
+| Version | Date | Description |
+|---|---|---|
+| 1.0 | Nov 2025 | Initial write-up |

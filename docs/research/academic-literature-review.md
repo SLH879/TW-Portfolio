@@ -142,7 +142,7 @@ This document synthesizes standard academic research practices from:
 
 ## 9. Revision History
 
-| Version | Date | Change |
+| Version | Date | Description |
 | :--- | :--- | :--- |
 | 1.0 | Feb 2026 | Initial publication |
 | 1.1 | May 2026 | Expanded content |

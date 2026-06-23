@@ -88,5 +88,9 @@ A formalized control framework reduces institutional exposure and supports long-
 
 ---
 
-## Note
-This document is a portfolio sample highlighting key common governance and risk management practices observed in Canadian regulated financial institutions. It does not represent internal policies of any specific organization.
+## 7. Revision History
+
+| Version | Date | Description |
+|---|---|---|
+| 1.0 | Feb 2026 | Initial write-up |
+| 2.0 | May 2026 | Revised pathway content |

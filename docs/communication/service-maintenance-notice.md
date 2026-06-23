@@ -33,3 +33,9 @@ We recommend completing any time-sensitive transactions prior to the scheduled m
 We appreciate your patience as these updates are completed to improve system reliability and account security.
 
 For additional assistance, please contact Member Services through the official support channels.
+
+## Revision History
+
+| Version | Date | Description |
+|---|---|---|
+| 1.0 | May 2026 | Initial write-up |

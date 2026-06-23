@@ -95,6 +95,15 @@ Follow these steps to re-engage the mainspring and synchronize time after a peri
 - General watch servicing guidelines from independent watchmaking manuals  
 
 ---
+## 13. Revision History
+
+| Date | Version Number | Description |
+| --- | ---- | --- |
+| Feb 2026 | v1.0 | Initial Release |
+| Apr 2026 | v1.1 | Redundancies and repeat information removed; added references list |
+| May 2026 | v1.2 | Content revisions |
+
+---
 
 > **Project Profile: Technical Document Synthesis**
 > * **Inputs:** 10+ Watch Manufacturer Technical Manuals

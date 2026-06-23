@@ -113,5 +113,5 @@ Observed activity patterns support escalation for suspicious transaction review 
 
 | Version | Date | Description |
 |---|---|---|
-| 1.0 | Nov 2025 | Initial write-up concluded from AML case study
-| 2.0 | May 2026 | Pzortfolio adaptation |
+| 1.0 | Nov 2025 | Initial write-up concluded from AML case study |
+| 2.0 | May 2026 | Portfolio adaptation |
