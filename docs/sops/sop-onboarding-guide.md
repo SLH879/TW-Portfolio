@@ -5,18 +5,28 @@
 
 ## 1. Purpose
 
-This document defines the onboarding process for new employees, including account setup, system access requests, and initial task assignments required for operational readiness.
+This onboarding guide provides standardized procedures for onboarding newly hired employees, including account provisioning, system access, security configuration, and initial operational activities required for successful integration into the organization's working environment. 
+
 
 ## 2. Scope
 
-This guide applies to all newly onboarded employees who require access to internal systems, communication platforms, and operational tools necessary for day-to-day execution of tasks:
+This guide applies to all newly hired employees who require access to internal systems and operational resources, It covers pre-boarding activities, account aciviation, system access requests, security configuration, required tools setup, onboarding tasks, troubleshooting proecdures, and completion criteria needed for operational readiness. 
+
+The following tools are referenced throughout the guide: 
 
 - Communication platforms (Microsoft Outlook, Microsoft Teams)
 - Document management platform (Microsoft SharePoint)
 - Knowledge base (Confluence)
 - Task tracking system (Jira) 
 
+
+## 2. Scope
+
+This guide applies to all newly hired employees requiring access to corporate systems and operational resources. It covers pre-boarding activities, account activation, system access requests, security configuration, required tool setup, onboarding tasks, troubleshooting procedures, and completion criteria necessary for operational readiness.
+
+
 ### 2.1. Definitions
+
 **MFA**
 - Multi-factor Authentication used to verify user identity before granting access
 
