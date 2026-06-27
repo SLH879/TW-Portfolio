@@ -20,11 +20,6 @@ The following tools are referenced throughout the guide:
 - Task tracking system (Jira) 
 
 
-## 2. Scope
-
-This guide applies to all newly hired employees requiring access to corporate systems and operational resources. It covers pre-boarding activities, account activation, system access requests, security configuration, required tool setup, onboarding tasks, troubleshooting procedures, and completion criteria necessary for operational readiness.
-
-
 ### 2.1. Definitions
 
 **MFA**
@@ -33,28 +28,35 @@ This guide applies to all newly hired employees requiring access to corporate sy
 **Systems Administrator**
 - IT personnel responsible for account provisioning and access management
 
+**HRIS**
+- Human Resources Information System used to maintain employee records.
+
 
 ## 3. Roles and Responsibilities
 
 ### Employee
+
 - Review onboarding instructions
 - Complete MFA setup
 - Submit required access requests
 - Attend scheduled orientation sessions
 
 ### Direct Manager
+
 - Confirm employee role requirements
 - Approve system access requirements
 - Assign initial responsibiliites
 - Verify operational readiness
 
 ### IT Helpdesk (system administrator)
+
 - Provision accounts and corporate email
 - Configure system permissions
 - Troubleshoot access issues 
 - Support MFA registration and enrollment
 
 ### Human Resources
+
 - Create employee records
 - Coordinate onboarding activities
 - Verify required documentation
@@ -70,8 +72,23 @@ This guide applies to all newly hired employees requiring access to corporate sy
 | MFA Enrollment | Employee |
 | System Access Approval | IT |
 
+## 4. Workflow Diagram
 
-## 4. Pre-Boarding
+![Onboarding Workflow](../diagrams/onboarding-workflow.png)
+
+
+## 5. Timeline
+
+| Timeline | Activity |
+| --- | --- |
+| Preboarding | Email, equipment, HR paperwork |
+| Day 1 | Orientation, Account activation |
+| First Week | Training, system access |
+| First Month | Role integration |
+
+
+---
+## 6. Pre-Boarding
 
 Before the employee's first day:
 
@@ -81,11 +98,8 @@ Before the employee's first day:
 - Company laptop, peripherals, and software (Outlook, Teams, Sharepoint, Confluence, and Jira) are prepared (if applicable).
 - Employee receives onboarding instructions.
 
-## 5. Workflow Diagram
 
-![Onboarding Workflow](../diagrams/onboarding-workflow.png)
-
-## 6. Prerequisites
+## 7. Prerequisites
 
 Before onboarding begins, the following must be completed:
 
@@ -96,9 +110,9 @@ Before onboarding begins, the following must be completed:
 - Corporate email provided by IT
 
 
-## 7. Account Setup
+## 8. Account Setup
 
-### 7.1 Corporate Email Access
+### 8.1 Corporate Email Access
 
 1. Navigate to the corporate email login portal.
 2. Enter credentials provided by IT (systems administrator).
@@ -109,7 +123,7 @@ Before onboarding begins, the following must be completed:
 > * On top of approved authenticator app, employees are allowed to use text messages or phone verification on top of MFA.
 
 
-### 7.2 Internal System Access
+### 8.2 Internal System Access
 
 1. Log into the company's employee portal.
 2. Navigate to “Access Requests.”
@@ -120,14 +134,13 @@ Before onboarding begins, the following must be completed:
 > * Microsoft Teams (Communication)
 4. Await approval notification from system administrator.
 
-### 7.3 Password Setup
-
+### 8.3 Password Setup
 
 Password creation occurs during initial account activation.
 
 Employees must replace their temporary password during their first login. 
 
-Password must comply with organization's password policy
+Passwords must comply with organization's password policy
 > * Minimum of 8 characters long, and consist of the following:
 > * 1 upper case
 > * 1 lower case
@@ -136,8 +149,26 @@ Password must comply with organization's password policy
 
 For password reset or recovery procedures, refer to the [Password Reset SOP](./sop-password-reset.md).
 
+## 9.Equipment Provisioning
 
-## 9. Required Tools Setup
+The following equipment shall be issued where applicable:
+
+- Company laptop
+- Monitor(s)
+- Keyboard and mouse
+- Security badge
+- Docking station
+- Headset
+
+### 9.1. Physical Acccess and Facilities
+
+- Building access
+- Employee ID badge
+- Parking pass (if applicable)
+- Office keys (if applicable)
+- Visitor access procedures
+
+## 10. Required Tools Setup
 
 Ensure access to the following systems:
 
@@ -150,7 +181,7 @@ Ensure access to the following systems:
 | Jira | Task Management |
 
 
-## 10. Initial Onboarding Tasks (First 48 Hours)
+## 11. Initial Onboarding Tasks (First 48 Hours)
 
 - Complete onboarding checklist in HR system.  
 - Review internal SOP repository hosted in Confluence.
@@ -158,7 +189,7 @@ Ensure access to the following systems:
 - Attend onboarding/orientation session (if scheduled) with assigned manager.  
 
 
-## 11. First Week Objectives
+## 12. First Week Objectives
 
 - Complete required compliance training.
 - Review department SOPs and knowledge base articles.
@@ -168,22 +199,29 @@ Ensure access to the following systems:
 
 
 
-## 12. Troubleshooting
+## 13. Troubleshooting
 
-### 12.1 Unable to Access Email
+### 13.1 Unable to Access Email
 
 - Verify credentials using the information provided in the onboarding email. Credentials are case-sensitive and must be entered exactly as shown, including spacing.  
 - Reset password via the IT portal by selecting the "Forgot your password?" option on the login page. 
 - Contact IT support if the issue persists via internal communications (e.g., text messaging, phone, or external messaging platform) and the “Contact Us” option on the login page.  
 
-### 12.2 Missing System Permissions
+### 13.2 Missing System Permissions
 
 - Confirm manager approval status  
 - Submit access request ticket  
 - Escalate if no response within 2 business days  
 
+### 13.3 IT Support Information
 
-## 13. Escalation Path
+- Email: Internal IT Helpdesk
+- Phone: Internal Helpdesk Extension
+- Support hours: Monday to Friday, 8AM to 5PM
+- Expected response time: 1 business day
+
+
+## 14. Escalation Path
 
 If onboarding issues persist:
 
@@ -192,7 +230,7 @@ If onboarding issues persist:
 3. Escalate to HR onboarding coordinator  
 
 
-## 14. Completion Criteria
+## 15. Completion Criteria
 
 Onboarding is considered complete when:
 
@@ -201,7 +239,7 @@ Onboarding is considered complete when:
 - Manager confirms operational readiness
 - Employee acknowledges receipt of required policies and documentation
 
-### 14.1 Expected Outcomes
+## 16. Expected Outcomes
 
 - Employee can authenticate successfully
 - Employee has required system access
@@ -209,7 +247,7 @@ Onboarding is considered complete when:
 - Employee has completed mandatory onboarding activities
 
 
-## 15. Records
+## 17. Records
 
 The following records are generated during onboarding:
 
@@ -225,6 +263,7 @@ The following records are generated during onboarding:
 
 - [Account Provisioning Guide](./sop-account-provision.md)
 - [Password Reset SOP](./sop-password-reset.md)
+- [Member Security Notification](../communication/member-security-notification.md)
 
 ---
 
