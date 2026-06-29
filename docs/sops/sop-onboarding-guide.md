@@ -5,12 +5,14 @@
 
 ## 1. Purpose
 
-This onboarding guide provides standardized procedures for onboarding newly hired employees, including account provisioning, system access, security configuration, and initial operational activities required for successful integration into the organization's working environment. 
+This onboarding guide provides standardized procedures for onboarding newly hired employees. This includes account provisioning, system access, security configuration, and initial operational activities required for successful integration into the organization's working environment. 
 
 
 ## 2. Scope
 
-This guide applies to all newly hired employees who require access to internal systems and operational resources, It covers pre-boarding activities, account aciviation, system access requests, security configuration, required tools setup, onboarding tasks, troubleshooting proecdures, and completion criteria needed for operational readiness. 
+This guide applies to all newly hired employees who require access to internal systems and operational resources. 
+
+It covers pre-boarding activities, account aciviation, system access requests, security configuration, required tools setup, onboarding tasks, troubleshooting proecdures, and completion criteria needed for operational readiness. 
 
 The following tools are referenced throughout the guide: 
 
@@ -23,10 +25,10 @@ The following tools are referenced throughout the guide:
 ### 2.1. Definitions
 
 **MFA**
-- Multi-factor Authentication used to verify user identity before granting access
+- Multi-factor Authentication used to verify user identity before granting access. Includes Google and Microsoft Authenticators. 
 
 **Systems Administrator**
-- IT personnel responsible for account provisioning and access management
+- IT personnel responsible for account provisioning and access/permission management.
 
 **HRIS**
 - Human Resources Information System used to maintain employee records.
@@ -52,8 +54,8 @@ The following tools are referenced throughout the guide:
 
 - Provision accounts and corporate email
 - Configure system permissions
-- Troubleshoot access issues 
 - Support MFA registration and enrollment
+- Provide IT troubleshooting and support for onboarded employees and managers
 
 ### Human Resources
 
@@ -92,11 +94,11 @@ The following tools are referenced throughout the guide:
 
 Before the employee's first day:
 
-- HR sends employment documentation.
-- IT provisions corporate email and temporary credentials.
-- Manager prepares the employee's first week onboarding schedule.
-- Company laptop, peripherals, and software (Outlook, Teams, Sharepoint, Confluence, and Jira) are prepared (if applicable).
-- Employee receives onboarding instructions.
+- HR sends employment documentation
+- IT provisions corporate email and temporary credentials
+- Manager prepares the employee's first week onboarding schedule
+- Company laptop, peripherals, and software (Outlook, Teams, Sharepoint, Confluence, and Jira) are prepared (if applicable)
+- Employee receives onboarding instructions
 
 
 ## 7. Prerequisites
@@ -116,11 +118,10 @@ Before onboarding begins, the following must be completed:
 
 1. Navigate to the corporate email login portal.
 2. Enter credentials provided by IT (systems administrator).
-3. Complete multi-factor authentication (MFA) setup using an approved authenticating application (e.g., Microsoft Authenticator, Google Authenticator)
+3. Complete multi-factor authentication (MFA) setup using an approved authenticating application (e.g., Microsoft Authenticator, Google Authenticator).
 4. Confirm successful access by sending a test email to your manager.
 
-> **Note:** MFA setup is mandatory (authenticator app, text message, phone verification) before access to internal accounts is granted.
-> * On top of approved authenticator app, employees are allowed to use text messages or phone verification on top of MFA.
+> **Note:** MFA setup is mandatory before access to internal accounts is granted. Employees are also allowed to use text messages or phone verification on top of MFA.
 
 
 ### 8.2 Internal System Access
@@ -149,6 +150,7 @@ Passwords must comply with organization's password policy
 
 For password reset or recovery procedures, refer to the [Password Reset SOP](./sop-password-reset.md).
 
+
 ## 9.Equipment Provisioning
 
 The following equipment shall be issued where applicable:
@@ -168,6 +170,7 @@ The following equipment shall be issued where applicable:
 - Office keys (if applicable)
 - Visitor access procedures
 
+
 ## 10. Required Tools Setup
 
 Ensure access to the following systems:
@@ -183,19 +186,19 @@ Ensure access to the following systems:
 
 ## 11. Initial Onboarding Tasks (First 48 Hours)
 
-- Complete onboarding checklist in HR system.  
-- Review internal SOP repository hosted in Confluence.
-- Join team communication channels on Microsoft Teams.
-- Attend onboarding/orientation session (if scheduled) with assigned manager.  
+- Complete onboarding checklist in HR system
+- Review internal SOP repository hosted in Confluence
+- Join team communication channels on Microsoft Teams
+- Attend onboarding/orientation session (if scheduled) with assigned manager  
 
 
 ## 12. First Week Objectives
 
 - Complete required compliance training.
-- Review department SOPs and knowledge base articles.
-- Join Microsoft Teams channels.
-- Attend introductory meetings with team members.
-- Meet with direct manager to establish performance expectations.
+- Review department SOPs and knowledge base articles
+- Join Microsoft Teams channels
+- Attend introductory meetings with team members
+- Meet with direct manager to establish performance expectations
 
 
 
