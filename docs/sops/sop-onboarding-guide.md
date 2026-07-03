@@ -162,7 +162,7 @@ The following equipment shall be issued where applicable:
 - Docking station
 - Headset
 
-### 9.1. Physical Acccess and Facilities
+### 9.1. Physical Access and Facilities
 
 - Building access
 - Employee ID badge
