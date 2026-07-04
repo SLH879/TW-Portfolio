@@ -42,6 +42,7 @@ technical-writing-portfolio/
 │   │   ├── sop-onboarding-guide.md
 │   │   ├── sop-watch-handling.md
 │   │   └── sop-password-reset.md
+│   │   └── sop-account-provision.md
 │   └── diagrams/
 │       ├── documentation-lifecycle.png
 │       ├── onboarding-workflow.png
