@@ -46,15 +46,15 @@ This document provides standardized instructional procedures for guiding student
 ## 5. Procedure: Literature Review Workflow
 
 ### Step 1: Define Research Scope
-- Identify the central research question
-- Establish inclusion criteria (e.g., date range, subject area, methodology)
-- Generate a list of relevant keywords and synonyms
+- Identify the central research question of choice 
+- Establish inclusion criteria and parameters (e.g., publication date range, subject areas, methodologies in recruitment and data collection, and geographical locations)
+- Create a list of relevant keywords and synonyms for searching
 
 ---
 
 ### Step 2: Conduct Source Search
-- Use academic databases and search engines
-- Apply filters (peer-reviewed, publication date, discipline)
+- Use academic journal databases and search engines
+- Apply filters (peer-reviewed, publication date, discipline, keywords)
 - Record search queries for reproducibility
 
 ---
