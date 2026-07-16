@@ -44,6 +44,7 @@ This document provides standardized instructional procedures for guiding student
 ---
 
 ## 5. Procedure: Literature Review Workflow
+This section defines the sequential steps, beginning with the defining of the scope of a research and concluding with proper citation practices of identified and used sources. Following these steps will help you ensure that sources are properly identified, evaluated, integrated, and cited in a systematic manner.
 
 ### Step 1: Define Research Scope
 - Identify the central research question of choice 

@@ -3,6 +3,28 @@
 
 ---
 
+# Table of Content
+1. [Purpose](#1-purpose)
+2. [Scope](#2-scope)
+3. [Roles and Responsibilities](#3-roles-and-responsibilities)
+4. [Workflow Diagram](#4-workflow-diagram)
+5. [Timeline](#5-timeline)
+6. [Pre-boarding](#6-pre-boarding)
+7. [Prerequisities](#7-prerequisites)
+8. [Account Setup](#8-account-setup)
+9. [Equipment Provisioning](#9-equipment-provisioning)
+10. [Required Tools Setup](#10-required-tools-setup)
+11. [Initial Onboarding Tasks (First 48 Hours)](#11-initial-onboarding-tasks-first-48-hours)
+12. [First Week Objectives](#12-first-week-objectives)
+13. [Troubleshooting](#13-troubleshooting)
+14. [Ecalation Path](#14-escalation-path)
+15. [Completion Criteria](#15-completion-criteria)
+16. [Expected Outcomes](#16-expected-outcomes)
+17. [Records](#17-records)
+
+
+---
+
 ## 1. Purpose
 
 This onboarding guide provides standardized procedures for onboarding newly hired employees. This includes account provisioning, system access, security configuration, and initial operational activities required for successful integration into the organization's working environment. 
@@ -35,6 +57,8 @@ The following tools are referenced throughout the guide:
 
 
 ## 3. Roles and Responsibilities
+
+This section defines the roles and responsibilities of employees, direct managers, IT helpdesk, and human resources during the onboarding process. An activity owner table is also included for visual reference.
 
 ### Employee
 
@@ -97,7 +121,7 @@ Before the employee's first day:
 - HR sends employment documentation
 - IT provisions corporate email and temporary credentials
 - Manager prepares the employee's first week onboarding schedule
-- Company laptop, peripherals, and software (Outlook, Teams, Sharepoint, Confluence, and Jira) are prepared (if applicable)
+- Company laptop, peripherals, and software (Outlook, Teams, SharePoint, Confluence, and Jira) are prepared (if applicable)
 - Employee receives onboarding instructions
 
 
@@ -113,6 +137,8 @@ Before onboarding begins, the following must be completed:
 
 
 ## 8. Account Setup
+
+This section describes how to access company resources, including corporate email and internal systems. It breaks down the password setup process and informs areas to look out for.
 
 ### 8.1 Corporate Email Access
 
@@ -131,7 +157,7 @@ Before onboarding begins, the following must be completed:
 3. Submit requests:
 > * Jira (task management)
 > * Confluence (knowledge base)
-> * Microsoft Sharepoint (document repository)
+> * Microsoft SharePoint (document repository)
 > * Microsoft Teams (Communication)
 4. Await approval notification from system administrator.
 
@@ -151,9 +177,9 @@ Passwords must comply with organization's password policy
 For password reset or recovery procedures, refer to the [Password Reset SOP](./sop-password-reset.md).
 
 
-## 9.Equipment Provisioning
+## 9. Equipment Provisioning
 
-The following equipment shall be issued where applicable:
+The following equipment shall be issued to employees where applicable:
 
 - Company laptop
 - Monitor(s)
@@ -179,7 +205,7 @@ Ensure access to the following systems:
 | --- | --- |
 | Microsoft Outlook | Corporate Email |
 | Microsoft Teams | Internal Communications |
-| Microsoft Sharepoint | Document Storage |
+| Microsoft SharePoint | Document Storage |
 | Confluence | Knowledge Repository |
 | Jira | Task Management |
 
@@ -201,8 +227,9 @@ Ensure access to the following systems:
 - Meet with direct manager to establish performance expectations
 
 
-
 ## 13. Troubleshooting
+
+This section outlines issues, problems, and their respective solutions. Going through this section should help guide employees with resolving commonly experienced issues. 
 
 ### 13.1 Unable to Access Email
 
@@ -277,3 +304,4 @@ The following records are generated during onboarding:
 | May 2026 | v1.0 | Initial Release |
 | June 2026 | v1.1 | Diagrams and formatting revisions |
 | June 2026 | v1.2 | Content expansion and clarity in steps |
+| June 2026 | v1.3 | Added table of contents, revised formatting and added descriptions to each header |
