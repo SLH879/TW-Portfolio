@@ -1,5 +1,5 @@
 # User Guide: Conducting an Academic Literature Review
-**Document ID:** SOP-ACAD-003 | **Version:** 1.1 | **Effective Date:** Feb 2026 | **Last Updated:** May 2026 | **Status:** Published
+**Document ID:** SOP-ACAD-003 | **Version:** 1.2 | **Effective Date:** Feb 2026 | **Last Updated:** July 2026 | **Status:** Published
 
 ---
 
@@ -30,7 +30,7 @@ This document provides standardized instructional procedures for guiding student
 
 - Student has a clearly defined research topic or question
 - Access to academic databases (e.g., JSTOR, Google Scholar, university/college library)
-- Familiarity with required citation style (e.g., APA, MLA, Chicago, McGill etc.)
+- Familiarity with required citation style (e.g., APA, MLA, Chicago, Harvard, etc.)
 - Basic understanding of keyword search techniques, including boolean search techniques (AND, OR, NOT) 
 
 ---
@@ -147,7 +147,7 @@ This document synthesizes standard academic research practices from:
 | :--- | :--- | :--- |
 | 1.0 | Feb 2026 | Initial publication |
 | 1.1 | May 2026 | Expanded content |
-
+| 1.2 | July 2026 | Revisions to citation styles |
 ---
 
 *© 2026 Liang-Hu Shieh. For portfolio purposes only.*

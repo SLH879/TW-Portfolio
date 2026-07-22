@@ -1,5 +1,5 @@
 # AML Transaction Monitoring Escalation Report
-**Document ID:** GOV-AML-001 | **Version:** 2.0 | **Published:** November 2025 | **Last Updated:** May 2026 | **Status:** Published
+**Document ID:** GOV-AML-001 | **Version:** 2.0 | **Last Updated:** May 2026 | **Status:** Published
 
 ---
 

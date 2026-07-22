@@ -1,5 +1,5 @@
-# Account Provisioning Guide 
-**Document ID:** SOP-Account-Provision | **Version:** 1.1 | **Initial Date:** June 2026 | **Published Date:** June 2026
+# Employee Account Activation Guide 
+**Document ID:** SOP-Account-Provision | **Version:** 1.1 | **Last Updated:** June 2026 | **Audience:** Employees | **Published Date:** June 2026
 
 
 # Purpose
@@ -10,9 +10,9 @@ The guide applies to all employees within the company. It encompasses:
 - Account creation
 - Account initial setup
 - Access assignment
-- Permission provisoning
+- Permission provisioning
 
-# Prerequisities
+# Prerequisites
 Before an employee can be provisioned a company account, they must have first met the following:
 - Attended and completed onboarding sessions
 > **Note:** To be given a temporary username and passcode
@@ -57,7 +57,7 @@ Before an employee can be provisioned a company account, they must have first me
 | Potential Problems | Solutions |
 | --- | ---- | 
 | No access to corporate email | Reach out to IT for manual creation or access override |
-| No inivitation email | Reach out to manager or IT for new invitation to be sent |
+| No invitation email | Reach out to manager or IT for new invitation to be sent |
 | Unable to login | Reach out to IT for access and credentials support |
 | Unable to setup MFA | Use the phone text/call alternative, or reach out to IT for assistance |
 | Don't know how to contact IT | Email: Internal IT Helpdesk, Phone: Internal Helpdesk Extension |

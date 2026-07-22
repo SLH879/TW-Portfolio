@@ -1,5 +1,5 @@
 # Policy Brief: Reputational Risk Governance Framework
-**Document ID:** GOV-RISK-001 | **Version:** 1.2 | **Published:** Feb 2026 | **Last Updated:** May 2026 | **Status:** Published
+**Document ID:** GOV-RISK-001 | **Version:** 1.2 | **Last Updated:** May 2026 | **Status:** Published
 
 ---
 
@@ -15,7 +15,7 @@ Reputational risk typically emerges as a secondary consequence of operational, c
 
 Reputational exposure does not arise independently. It is generally triggered by breakdowns in primary control environments:
 
-- **Operational Risk:** Deficiencies in transaction monitoring, recordkeeping, or internal review controls.
+- **Operational Risk:** Deficiencies in transaction monitoring, record keeping, or internal review controls.
 - **Regulatory Risk:** Failure to meet supervisory expectations under applicable regulatory frameworks.
 - **Fiduciary Risk:** Misalignment between institutional decisions and stakeholder interests.
 

@@ -7,7 +7,7 @@
 This guide provides standardized procedures for the initial setup, daily operation, and long-term maintenance of automatic mechanical watches. 
 
 ## 2. Scope
-This guide covers the operations of automatic and mechanical wrist watches with manual winding calendar (day and day) functions. Variations may exist between different make and movement configuration.
+This guide covers the operations of automatic and mechanical wrist watches with manual winding calendar (day and date) functions. Variations may exist between different make and movement configuration.
 
 ## 3. Entry Criteria
 This procedure may be initiated when:
@@ -32,9 +32,9 @@ This procedure may be initiated when:
 
 ## 6. Exit Criteria
 This procedure is considered complete when:
-- The date and time have been proeprly set
+- The date and time have been properly set
 - The watch has resumed stable operation (seconds hand sweeps clockwise)
-- The crown is screwed back to its original position (position 0 for those with screwdown crowns and position 1 for those without)
+- The crown is screwed back to its original position (position 0 for those with screwdown crowns and position 1 for those without)vs code gra
 
 ## 7, Outputs
 - Watch synchronized to correct date and time
@@ -46,7 +46,7 @@ This procedure is considered complete when:
 ## 8. Safety and Cautionary Notices
 
 > [!WARNING]
-> **Date Setting Restriction:** Avoid adjusting the date mechanism between **9:00 PM and 3:00 AM; 10PM and 2AM; or 11PM and 1PM** (depending on the make and model of the watch).    
+> **Date Setting Restriction:** Avoid adjusting the date mechanism between **9:00 PM and 3:00 AM; 10PM and 2AM; or 11PM and 1AM** (depending on the make and model of the watch).    
 > Engaging the date-flip gear during this window can cause permanent mechanical failure of the calendar (day/date) wheel.  
 
 > [!CAUTION]

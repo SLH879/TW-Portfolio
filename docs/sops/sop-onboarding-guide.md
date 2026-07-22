@@ -1,9 +1,9 @@
 # Employee Onboarding Guide
-**Document ID:** SOP-Onboarding-001 | **Version:** 1.2 | **Initial Date:** May 2026 | **Last Updated:** June 2026 | **Status:** Published
+**Document ID:** SOP-Onboarding-001 | **Version:** 1.3 | **Last Updated:** June 2026 | **Audience:** Employees | **Status:** Published
 
 ---
 
-# Table of Content
+# Table of Contents
 1. [Purpose](#1-purpose)
 2. [Scope](#2-scope)
 3. [Roles and Responsibilities](#3-roles-and-responsibilities)
@@ -71,7 +71,7 @@ This section defines the roles and responsibilities of employees, direct manager
 
 - Confirm employee role requirements
 - Approve system access requirements
-- Assign initial responsibiliites
+- Assign initial responsibilities
 - Verify operational readiness
 
 ### IT Helpdesk (system administrator)
@@ -304,4 +304,4 @@ The following records are generated during onboarding:
 | May 2026 | v1.0 | Initial Release |
 | June 2026 | v1.1 | Diagrams and formatting revisions |
 | June 2026 | v1.2 | Content expansion and clarity in steps |
-| June 2026 | v1.3 | Added table of contents, revised formatting and added descriptions to each header |
+| July 2026 | v1.3 | Added table of contents, revised formatting and added descriptions to each header |

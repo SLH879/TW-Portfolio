@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+
+<task id="set-time-day-date-seiko-4r36">
+  <title>Set the time, day, and date on a Seiko 4R36 watch</title>
+
+  <shortdesc>
+    Set the time, day of the week, and numerical date after the watch
+    has stopped or displays incorrect calendar information.
+  </shortdesc>
+
+  <prolog>
+    <metadata>
+      <othermeta name="document-id" content="TASK-SEIKO-4R36-001"/>
+      <othermeta name="version" content="1.0"/>
+      <othermeta name="audience" content="Seiko 4R36 watch owners"/>
+      <othermeta name="status" content="Portfolio sample"/>
+      <othermeta name="last-updated" content="2026-07-19"/>
+    </metadata>
+  </prolog>
+
+  <taskbody>
+    <context>
+      <p>
+        The Seiko 4R36 movement displays the time, numerical date, and
+        day of the week. The date changes around midnight, while the day
+        display completes its change later.
+      </p>
+
+      <note type="caution">
+        Do not use the quick-set day or date function between 9:00 p.m.
+        and 4:00 a.m. Doing so may prevent the calendar from changing
+        correctly or may damage the mechanism.
+      </note>
+    </context>
+
+    <prereq>
+      <ul>
+        <li>Confirm that the watch is operating.</li>
+        <li>Use an accurate time and date reference.</li>
+        <li>
+          If the watch has a screw-down crown, unlock the crown before
+          beginning the procedure.
+        </li>
+      </ul>
+    </prereq>
+
+    <steps>
+      <step>
+        <cmd>Pull the crown out to the first click.</cmd>
+        <stepresult>
+          The seconds hand continues moving.
+        </stepresult>
+      </step>
+
+      <step>
+        <cmd>
+          Turn the crown counterclockwise until the previous day’s
+          numerical date appears.
+        </cmd>
+        <info>
+          For example, if the current date is July 19, set the date
+          display to 18.
+        </info>
+      </step>
+
+      <step>
+        <cmd>
+          Turn the crown clockwise until the previous day of the week
+          appears.
+        </cmd>
+        <info>
+          If the watch has a bilingual day display, select the preferred
+          language.
+        </info>
+      </step>
+
+      <step>
+        <cmd>
+          Pull the crown out to the second click when the seconds hand
+          reaches the 12 o’clock position.
+        </cmd>
+        <stepresult>
+          The seconds hand stops.
+        </stepresult>
+      </step>
+
+      <step>
+        <cmd>
+          Turn the crown to advance the hands until the day and date
+          change to the current day and date.
+        </cmd>
+        <info>
+          The calendar change identifies the midnight transition and
+          helps establish the correct a.m. or p.m. setting.
+        </info>
+      </step>
+
+      <step>
+        <cmd>Continue turning the crown to set the current time.</cmd>
+      </step>
+
+      <step>
+        <cmd>
+          Push the crown back to its normal position in synchronization
+          with an accurate time signal.
+        </cmd>
+        <stepresult>
+          The seconds hand begins moving.
+        </stepresult>
+      </step>
+
+      <step>
+        <cmd>
+          If applicable, press and turn the screw-down crown clockwise
+          until it is secured.
+        </cmd>
+      </step>
+    </steps>
+
+    <result>
+      <p>
+        The watch displays the correct time, day, and date, and the crown
+        is returned to its normal secured position.
+      </p>
+    </result>
+
+    <postreq>
+      <p>
+        Observe the watch through the next calendar transition to verify
+        that the day and date advance correctly.
+      </p>
+    </postreq>
+  </taskbody>
+
+  <related-links>
+    <link
+      href="https://www.seikowatches.com/instructions/html/SEIKO_4R35_4R36_4R37_4R38_4R39_4R71_4R72_EN/"
+      scope="external"
+      format="html">
+      <linktext>Official Seiko 4R35/4R36 instructions</linktext>
+    </link>
+  </related-links>
+</task>
