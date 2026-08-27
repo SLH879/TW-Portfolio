@@ -1,5 +1,5 @@
 # Employee Onboarding Guide
-**Document ID:** SOP-Onboarding-001 | **Version:** 1.3 | **Last Updated:** June 2026 | **Audience:** Employees | **Status:** Published
+**Document ID:** SOP-Onboarding-001 | **Version:** 1.3.1 | **Last Updated:** August 2026 | **Audience:** Employees | **Status:** Published
 
 ---
 
@@ -34,7 +34,7 @@ This onboarding guide provides standardized procedures for onboarding newly hire
 
 This guide applies to all newly hired employees who require access to internal systems and operational resources. 
 
-It covers pre-boarding activities, account aciviation, system access requests, security configuration, required tools setup, onboarding tasks, troubleshooting proecdures, and completion criteria needed for operational readiness. 
+It covers pre-boarding activities, account activation, system access requests, security configuration, required tools setup, onboarding tasks, troubleshooting procedures, and completion criteria needed for operational readiness. 
 
 The following tools are referenced throughout the guide: 
 
@@ -291,7 +291,7 @@ The following records are generated during onboarding:
 
 ## Related Documentation
 
-- [Account Provisioning Guide](./sop-account-provision.md)
+- [Account Activation Guide](./sop-account-activation.md)
 - [Password Reset SOP](./sop-password-reset.md)
 - [Member Security Notification](../communication/member-security-notification.md)
 
@@ -305,3 +305,4 @@ The following records are generated during onboarding:
 | June 2026 | v1.1 | Diagrams and formatting revisions |
 | June 2026 | v1.2 | Content expansion and clarity in steps |
 | July 2026 | v1.3 | Added table of contents, revised formatting and added descriptions to each header |
+| August 2026 | v1.3.1 | Grammar Revisions |

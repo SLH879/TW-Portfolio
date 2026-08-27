@@ -18,7 +18,7 @@ This portfolio draws on 8+ years of independent research, writing, editing, and 
 
 ### 3. [Network Password Reset SOP](./docs/sops/sop-password-reset.md)
 **Technical Procedure Sample**
-* **Highlights:** Structured procedural writing, troubleshooting workflows, completion criteria, process mapping, and end-user support documentation..
+* **Highlights:** Structured procedural writing, troubleshooting workflows, completion criteria, process mapping, and end-user support documentation.
 
 ### 4. [Documentation Workflow](./docs/process/confluence-documentation-workflow.md)
 * **Demonstrates:** the use of Confluence, Jira, and GitHub for content
@@ -45,7 +45,7 @@ technical-writing-portfolio/
 │   │   └── academic-literature-review.md
 │   ├── process/
 │   │   └── confluence-documentation-workflow.md
-│   │   └── docs-qa-checklist.md
+│   │   └── doc-qa-checklist.md
 │   │   └── style-guide.md
 │   ├── sops/
 │   │   ├── sop-onboarding-guide.md

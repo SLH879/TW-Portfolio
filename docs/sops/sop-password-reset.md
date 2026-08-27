@@ -3,7 +3,7 @@
 
 
 ## Purpose
-This documents instructs how employees can reset their company account passwords and usernames through approved self-service and support channels.
+This document instructs how employees can reset their company account passwords through approved self-service and support channels.
 
 The network account provides access to authorized resources, including:
 
@@ -27,11 +27,12 @@ Use this guide when:
 
 
 ## Prerequisites
-Before an employee can proceed with resetting their passwords, the following criteria have to first be met:
-- Completed the onboarding and identity verification processes 
-- Access to employee account and email
-- Completed multi-factor authentication (MFA) 
-- Logged onto the company's VPN
+Before an employee can proceed with resetting their passwords, the following criteria must be met:
+
+- Completed account activation and identity verification
+- Knowledge of own username and company email address
+- Completed multi-factor authentication (MFA) setup
+- Have access to their registered MFA method
 
 The self-service password reset option is accessible outside the company network. You do not need to be connected to the VPN to reset a forgotten password.
 
@@ -55,6 +56,7 @@ Select the appropriate procedure
 4. Verify your identity through accepted MFA applications, or through a text message or phone call verification
 5. The reset email should be received within 5-10 minutes
 > **Note:** If you do not receive your password, contact the helpdesk for further assistance
+6. The reset email contains the reset password link, which brings you to the password reset page.
 
 
 
@@ -115,11 +117,11 @@ Contact the IT helpdesk when:
 ## Related Documentation
 
 - [Employee Onboarding Guide](./sop-onboarding-guide.md)
-- [Employee Account Activation Guide](./sop-account-provision.md)
+- [Employee Account Activation Guide](./sop-account-activation.md)
 - [Member Security Notification](../communication/member-security-notification.md)
 
 ---
-> This document describes a fictional organization's password reset process fort portfolio purposes.
+> This document describes a fictional organization's password reset process for portfolio purposes.
 
 ---
 ## Revision History
