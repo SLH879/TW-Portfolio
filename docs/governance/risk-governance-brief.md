@@ -1,5 +1,5 @@
 # Policy Brief: Reputational Risk Governance Framework
-**Document ID:** GOV-RISK-001 | **Version:** 1.2 | **Last Updated:** May 2026 | **Status:** Published
+**Document ID:** GOV-RISK-001 | **Version:** 2.0 | **Last Updated:** May 2026 | **Status:** Published
 
 ---
 

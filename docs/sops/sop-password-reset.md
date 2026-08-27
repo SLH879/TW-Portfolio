@@ -42,21 +42,24 @@ The self-service password reset option is accessible outside the company network
 
 ## Inputs
 - Employee account that has been created
-- Access to the company email
-- Approved MFA applications (Google, Microsoft Authenticators) installed on cellphone for verification
+- Access to a valid email address
+- Approved MFA applications (Google Authenticator or Microsoft Authenticator) installed on cellphone for verification
 
 
 ## Procedure
 Select the appropriate procedure
 
 ### Resetting through company website
-1. Through the VPN or a company managed computer, go to company website's login page
+1. Through your personal or company computer, go to company website's login page
 2. Click on the reset password option below the username and password textbox
 3. Input your company email received during the onboarding process
 4. Verify your identity through accepted MFA applications, or through a text message or phone call verification
 5. The reset email should be received within 5-10 minutes
-> **Note:** If you do not receive your password, contact the helpdesk for further assistance
+> **Note:** If you do not receive the reset email, contact the helpdesk for further assistance
 6. The reset email contains the reset password link, which brings you to the password reset page.
+7. Enter your desired password, confirm, and submit the change.
+8. Wait for confirmation of successful password change.
+9. Test the new password to verify that it is working.
 
 
 
@@ -65,6 +68,10 @@ Select the appropriate procedure
 2. Click on the reset password option at the bottom of the account landing page
 3. Input your company employee ID number and email when prompted
 4. The reset email should be received within 5-10 minutes
+5. The reset email contains the reset password link, which brings you to the password reset page.
+6. Enter your desired password, confirm, and submit the change.
+7. Wait for confirmation of successful password change.
+8. Test the new password to verify that it is working.
 > **Note:** If you do not have access to your employee ID, refer to earlier emails received during onboarding. Alternatively, visit the helpdesk for further assistance
 
 >[!CAUTION]
@@ -85,7 +92,7 @@ Select the appropriate procedure
 | Employee is locked out when at home | Call the helpdesk support line for remote unlock and reset |
 | Identity verification does not work | Use text message or call alternatives for verification |
 
->[!WARNING]
+>[!IMPORTANT]
 > Avoid repeatedly trying to login with the wrong/failed password. Should any of the potential problems above be experienced, seek technical support from helpdesk.
 > **Account Lockouts:** Can potentially trigger prolonged account lockouts.
 
@@ -109,7 +116,7 @@ Contact the IT helpdesk when:
 
 ## Completion Criteria
 - The company portal confirms that your password has been reset successfully
-- The newly established password is usable immediately and grant access
+- The newly established password is usable immediately and grants access
 - The password reset procedure is communicated to and confirmed to be repeatable by the employee
 
 

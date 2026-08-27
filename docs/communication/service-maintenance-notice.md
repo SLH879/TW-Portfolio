@@ -1,6 +1,6 @@
 # Service Maintenance Notice
 
-**Document ID:** COMMS-MAINT-001 | **Version:** 1.0 | **Last Updated:** May 2026 | **Audience:** Employees | **Status:** Published
+**Document ID:** COMMS-MAINT-001 | **Version:** 1.1 | **Last Updated:** May 2026 | **Audience:** Banking Members | **Status:** Published
 
 ---
 
@@ -42,3 +42,4 @@ For additional assistance, please contact Member Services through the official s
 | Version | Date | Description |
 |---|---|---|
 | 1.0 | May 2026 | Initial write-up |
+| 1.1 | August 2026 | Audience and grammar revisions |

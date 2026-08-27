@@ -1,5 +1,5 @@
 # Documentation Revision and Publication Workflow
-| **Document ID:** SOP-docreview-001 | **Version:** 1.0 | **Last Updated:** August 2026 | **Owner:** | **System:** Company | **Status:** Published |
+| **Document ID:** SOP-doc-revision-publication-001 | **Version:** 1.0 | **Last Updated:** August 2026 | **Owner:** | **System:** Company | **Status:** Draft |
 
 
 ## Purpose

@@ -12,9 +12,23 @@ The portfolio uses semantic versioning for major structural revisions:
 
 ### Planned
 
-- Editorial QA pass across all documents
-- Revision of the Employee Password Reset Guide
-- Addition of documentation style and review guidelines
+- Continued editorial QA pass across all documents
+- Complete documentation revision publication workflow SOP
+- Complete qualitative data collection and analysis guide
+
+
+## [1.3.0] - 2026-08-27
+
+### Added
+
+- Documentation style and review guidelines
+- Jira and Confluence documentation workflow and images
+
+### Changed
+
+- Employee Password Reset Guide structure, audience, and instructions
+- Improved document metadata to better reflect changes
+- Updated changelog.md
 
 ## [1.2.0] – 2026-06-19
 

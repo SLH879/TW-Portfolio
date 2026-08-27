@@ -1,6 +1,6 @@
 # Member Security Notification
 
-**Document ID:** CUS-COMM-001 | **Version:** 1.0 | **Last Updated:** July 2026 | **Audience:** Employees | **Status:** Published
+**Document ID:** CUS-COMM-001 | **Version:** 1.1 | **Last Updated:** July 2026 | **Audience:** Employees | **Status:** Published
 
 ---
 
