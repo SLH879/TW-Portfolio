@@ -1,5 +1,5 @@
 # Employee Account Activation Guide 
-**Document ID:** SOP-Account-Provision | **Version:** 1.1 | **Last Updated:** June 2026 | **Audience:** Employees | **Published Date:** June 2026
+**Document ID:** SOP-Account-Activation-001 | **Version:** 1.1 | **Last Updated:** June 2026 | **Audience:** Employees | **Published Date:** June 2026
 
 
 # Purpose
@@ -74,3 +74,6 @@ Before an employee can be provisioned a company account, they must have first me
 | ---- | ---- | ---- |
 | June 2026 | v1.0 | Initial Publication | 
 | June 2026 | v1.1 | Tweaks to wording and phrasing |
+
+---
+> **Portfolio scenario:** This guide describes a fictional company environment. For this scenario, the password-reset portal sends a verification email within 5–10 minutes, and the IT Helpdesk responds within one business day.

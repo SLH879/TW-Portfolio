@@ -71,7 +71,7 @@ Select the appropriate procedure
 5. The reset email contains the reset password link, which brings you to the password reset page.
 6. Enter your desired password, confirm, and submit the change.
 7. Wait for confirmation of successful password change.
-8. Test the new password to verify that it is working.
+9. Test the new password to verify that it is working.
 > **Note:** If you do not have access to your employee ID, refer to earlier emails received during onboarding. Alternatively, visit the helpdesk for further assistance
 
 >[!CAUTION]
