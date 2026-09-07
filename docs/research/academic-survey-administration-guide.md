@@ -33,8 +33,8 @@ The online survey/questionnaire was initially developed on SurveyMonkey, before 
 The questionnaire was developed with ease of access and thoroughness in mind. Questionnaires serve as a cheap and convenient method to collect data and gather insights. It is time-efficient, easy to administer, accessible across most devices with internet access. Google, in particular, is linked to other Google workspace applications, allowing for easy integration and transfer of data from Forms to Sheets.
 
 I developed 17 comprehensive questions which combined a mix of multiple choice, truth and false, and open-ended questions.
-- The multiple choice and truth/false questions were considered close-ended with preset response options and participants chose those that matched closest to how they felt. This made responses easier to compare.
-- The short answer questions were considered open ended. This allowed participants to provide additional personalized context for their answers, allowing them to share unique narratives, experiences, and thoughts on how social media has impacted their consumption behaviour, identity formation, and mental well-being. 
+- **The multiple choice and truth/false questions** were close-ended with preset response options, making responses easier to compare.
+- **The short answer questions** were open ended, allowing additional personalized context for responses such as unique narratives, experiences, and thoughts. 
 
 The questionnaire was also developed to include a participant information and consent statement page, explaining: 
 - The hypotheses, purpose, scope, data collection, information distribution, intended use of responses, and confidentiality measures. 
@@ -98,10 +98,13 @@ The methodology employed gave rise to a few identifiable limitations. Limitation
 ## Lessons Learned
 
 This research project has shown me the intricacies of conducting a survey-based research project combining quantitative and qualitative response data. There are many things to look out for throughout:
-- Duplicate responses control - there is a need to implement unique identifiers for responses such as single participation codes to be used at the beginning of the questionnaire, and platform based participation limits (1 per session/device/browser).
-- Translation accuracy - Google translation output may result in inconsistencies, so a professional translation service is needed to review and validate.
-- Recruitment method limits generalizability - convenience sampling on social media and randomly selecting 50 did not create a population-level sample.
-- Privacy and duplicate responses planning - aims to reduce collection of personal information made detecting duplicate submissions difficult.
+
+| Lesson | Significance |
+| --- | --- |
+| **Duplicate responses control** | Multiple responses hard to detect; unique identifiers such as single participation codes can be used and platform based participation limits (1 per session/device) |
+| **Translation accuracy** | Google translation output resulted in inconsistencies; a professional translation service should review and validate |
+| **Recruitment method limits generalizability** | convenience sampling on social media and randomly selecting 50 did not create a population-level sample |
+| **Privacy and duplicate responses planning** | aims to reduce collection of personal information made detecting duplicate submissions difficult |
 
 
 ## Workflow Summary
