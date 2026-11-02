@@ -1,5 +1,5 @@
 # Multi-Platform Survey Administration and Data Review: Research Support Case Study
-**Document ID:** Case-RESEARCH  -001 | **Version:** 1.0 | **Last Updated:** September 2026 | **Audience:** Research Teams | **Status:** Draft | **Published Date:** September 2026
+**Document ID:** Case-RESEARCH-001 | **Version:** 1.1 | **Last Updated:** November 2026 | **Audience:** Research Teams | **Status:** Published | **Published Date:** September 2026
 
 ## Overview
 
