@@ -1,0 +1,41 @@
+
+{
+  "watches": [
+    {
+      "id": 101,
+      "brand": "Grand Seiko",
+      "reference": "SBGP017",
+      "ownershipStatus": "sold",
+      "purchaseDate": "2022-07-22",
+      "purchasePrice": 3700,
+      "purchaseCurrency": "USD",
+      "purchasePlatform": "Amazon UK"
+      "saleDate": "2026-09-19",
+      "salePrice": 4150,
+      "saleCurrency": "USD",
+      "salePlatform": "Reddit WatchExchange"
+    },
+    {
+      "id": 102,
+      "brand": "Seiko",
+      "reference": "SRP653",
+      "ownershipStatus": "owned",
+      "listingStatus": "for_sale",
+      "purchaseDate": "2016-09-11",
+      "purchasePrice": 379,
+      "purchaseCurrency": "EUR",
+      "purchasePlatform": "Amazon UK"
+    },
+    {
+      "id": 103,
+      "brand": "Seiko",
+      "reference": "SBBN039",
+      "ownershipStatus": "owned",
+      "listingStatus": "considering_sale",
+      "purchaseDate": "2020-01-01",
+      "purchasePrice": 2800,
+      "purchaseCurrency": "USD"
+      "purchasePlatform": "Reddit WatchExchange"
+    }
+  ]
+}

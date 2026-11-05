@@ -1,0 +1,46 @@
+openapi: 3.0.3
+
+info:
+  title: Watch Inventory API
+  version: 0.1.0
+  description: API documentation for a personal watch collection.
+
+paths:
+  /watches/{watchId}:
+    get:
+      summary: Retrieve a watch by ID
+      description: Returns a watch record using its unique ID.
+
+      parameters:
+        - name: watchId
+          in: path
+          required: true
+          description: Unique watch identifier.
+          schema:
+            type: integer
+          example: 101
+
+      responses:
+        '200':
+          description: Watch retrieved successfully.
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  id:
+                    type: integer
+                  brand:
+                    type: string
+                  reference:
+                    type: string
+                  status:
+                    type: string
+              example:
+                id: 101
+                brand: Grand Seiko
+                reference: SBGP017
+                status: sold
+
+        '404':
+          description: Watch not found.

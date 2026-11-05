@@ -3,7 +3,7 @@
 
 ---
 
-# Table of Contents
+## Table of Contents
 1. [Purpose](#1-purpose)
 2. [Scope](#2-scope)
 3. [Roles and Responsibilities](#3-roles-and-responsibilities)
@@ -155,10 +155,10 @@ This section describes how to access company resources, including corporate emai
 1. Log into the company's employee portal.
 2. Navigate to “Access Requests.”
 3. Submit requests:
-> * Jira (task management)
-> * Confluence (knowledge base)
-> * Microsoft SharePoint (document repository)
-> * Microsoft Teams (Communication)
+- Jira (task management)
+- Confluence (knowledge base)
+- Microsoft SharePoint (document repository)
+- Microsoft Teams (Communication)
 4. Await approval notification from system administrator.
 
 ### 8.3 Password Setup
