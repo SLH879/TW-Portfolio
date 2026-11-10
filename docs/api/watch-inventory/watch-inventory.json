@@ -36,6 +36,17 @@
       "purchasePrice": 2800,
       "purchaseCurrency": "USD"
       "purchasePlatform": "Reddit WatchExchange"
+    },
+    {
+      "id": 104,
+      "brand": "Omega",
+      "reference": "2222.80",
+      "ownershipStatus": "owned",
+      "listingStatus": "for_sale",
+      "purchaseDate": "2015-05-15",
+      "purchasePrice": 1500,
+      "purchaseCurrency": "USD",
+      "purchasePlatform": "WatchUSeek Member"
     }
   ]
 }
