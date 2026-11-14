@@ -7,7 +7,8 @@ This case study documents survey and research work I previously completed for an
 
 The research examined how social media use impacted consumer behaviour, identity formation, and mental well-being among Chinese young adults between ages 18 to 24. 
 
-> My role in the project included developing and deploying an online questionnaire, translating the questionnaire between English and Simplified Chinese, administering it across two survey platforms, supporting participant recruitment and sampling, consolidating the results, and analyzing the collected data for trends, recurring, and abnormal findings. To protect the project and participants, this portfolio version does not reproduce the original questionnaire, institution, client, and response data. Any examples included herein are recreated and fictionalized.
+> My role in the project included developing the research study, conducting online interviews, deploying an online questionnaire, translating the questionnaire between English and Simplified Chinese, administering it across two survey platforms, supporting participant recruitment and sampling, consolidating the results, and analyzing the collected data in Excel and Google Sheets for trends, recurring, and abnormal findings. 
+> To protect the project and participants, this portfolio version does not reproduce the original questionnaire, institution, client, and response data. Any examples included herein are recreated and fictionalized.
 
 
 ## Project Context and Responsibilities

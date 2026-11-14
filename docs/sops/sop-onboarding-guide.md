@@ -1,5 +1,12 @@
 # Employee Onboarding Guide
-**Document ID:** SOP-Onboarding-001 | **Version:** 1.3.1 | **Last Updated:** August 2026 | **Audience:** Employees | **Status:** Published
+
+| Document Information | Details |
+|---|---|
+| Document ID | SOP-Onboarding-001 |
+| Version | 1.3.2 |
+| Last Updated | November 2026 |
+| Audience | New employees |
+| Status | Published |
 
 ---
 
@@ -88,7 +95,7 @@ This section defines the roles and responsibilities of employees, direct manager
 - Verify required documentation
 - Facilitate orientation and training sessions
 
-### 3.1 Activity Owner Table
+#### 3.1 Activity Owner Table
 
 | Activity | Owner |
 | -- | -- |
@@ -155,10 +162,10 @@ This section describes how to access company resources, including corporate emai
 1. Log into the company's employee portal.
 2. Navigate to “Access Requests.”
 3. Submit requests:
-- Jira (task management)
-- Confluence (knowledge base)
-- Microsoft SharePoint (document repository)
-- Microsoft Teams (Communication)
+    - Jira (task management)
+    - Confluence (knowledge base)
+    - Microsoft SharePoint (document repository)
+    - Microsoft Teams (Communication)
 4. Await approval notification from system administrator.
 
 ### 8.3 Password Setup
@@ -167,12 +174,13 @@ Password creation occurs during initial account activation.
 
 Employees must replace their temporary password during their first login. 
 
-Passwords must comply with organization's password policy
-> * Minimum of 8 characters long, and consist of the following:
-> * 1 upper case
-> * 1 lower case
-> * 1 number
-> * 1 special character 
+Passwords must comply with the organization's password policy
+
+    Minimum of 8 characters long, and consist of the following:
+    - 1 upper case
+    - 1 lower case
+    - 1 number
+    - 1 special character 
 
 For password reset or recovery procedures, refer to the [Password Reset SOP](./sop-password-reset.md).
 
@@ -306,3 +314,4 @@ The following records are generated during onboarding:
 | June 2026 | v1.2 | Content expansion and clarity in steps |
 | July 2026 | v1.3 | Added table of contents, revised formatting and added descriptions to each header |
 | August 2026 | v1.3.1 | Grammar Revisions |
+| November 2026 | v1.3.2 | Two column table for metadata, fixed some inconsistencies with formatting and hierarchy |

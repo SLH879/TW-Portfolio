@@ -1,28 +1,39 @@
 # Technical Writing Portfolio: Liang-Hu Shieh (Sie)
 
-This repository contains selected writing samples in standard operating procedures, governance briefs, and structured documentation. Samples demonstrate procedural writing, workflow documentation, governance communications, and structured content development for technical and non-technical audiences.
+This repository contains selected writing samples in research processes, standard operating procedures (SOPs), governance briefs, and structured documentation. Samples demonstrate procedural writing, workflow documentation, governance communications, and structured content development for technical and non-technical audiences.
 
-This portfolio draws on 8+ years of independent research, writing, editing, and client-facing document support involving more than 3,000 structured deliverables.
+This portfolio draws on 8+ years of independent research, writing, editing, and client-facing document support involving more than 2,500 structured client deliverables.
 
 ---
 
 ## Featured Samples
 
-### 1. [Employee Onboarding Guide SOP](./docs/sops/sop-onboarding-guide.md)
+### 1. [Survey Administration Guide](./docs/research/research-survey-administration-guide.md)
+* **Demonstrates:** Thought processes and rationale behind the development of a comprehensive research study, focusing primarily on the survey administration guide
+
+### 2. [Employee Onboarding Guide SOP](./docs/sops/sop-onboarding-guide.md)
 **Process & Workflow Documentation Sample**
 * **Highlights:** Onboarding workflow design, system access provisioning, troubleshooting guidance, process mapping, and user-focused procedural writing.
 
-### 2. [Risk Governance Brief](./docs/governance/risk-governance-brief.md)
+### 3. [Risk Governance Brief](./docs/governance/risk-governance-brief.md)
 **Policy & Governance Brief (Institutional Sample)**
 * **Highlights:** Three Lines of Defence (3LoD) alignment, reputational risk mapping, and executive-ready communications.
 
-### 3. [Network Password Reset SOP](./docs/sops/sop-password-reset.md)
+### 4. [Network Password Reset SOP](./docs/sops/sop-password-reset.md)
 **Technical Procedure Sample**
 * **Highlights:** Structured procedural writing, troubleshooting workflows, completion criteria, process mapping, and end-user support documentation.
 
-### 4. [Documentation Workflow](./docs/process/confluence-documentation-workflow.md)
-* **Demonstrates:** the use of Confluence, Jira, and GitHub for content
-organization, revision tracking, and publication.
+### 5. [Watch Handling SOP](./docs/sops/sop-watch-handling.md)
+* **Demonstrates:** Structured step-by-step guide in watch operations, with an emphasis on the Seiko 4R36 movement.
+
+
+---
+
+## Photography & Visual Content
+
+Since 2021, I have produced product and lifestyle photography through paid and product-exchange collaborations with 25+ brands, including repeat engagements. My work spans watches, accessories, and lifestyle products, from macro details to environmental compositions.
+
+[View my photography portfolio](https://www.instagram.com/slh879/)
 
 ---
 
@@ -42,7 +53,9 @@ technical-writing-portfolio/
 │   │   ├── risk-governance-brief.md
 │   │   └── aml-transaction-escalation-report.md
 │   ├── research/
-│   │   └── academic-literature-review.md
+│   │   └── research-literature-review.md
+│   │   └── research-participatory.md
+│   │   └── research-survey-administration-guide.md
 │   ├── process/
 │   │   └── confluence-documentation-workflow.md
 │   │   └── doc-qa-checklist.md
@@ -50,14 +63,26 @@ technical-writing-portfolio/
 │   ├── sops/
 │   │   ├── sop-onboarding-guide.md
 │   │   ├── sop-account-activation.md
+│   │   ├── sop-documentation-revision-publication-workflow.md
 │   │   └── sop-password-reset.md
 │   │   └── sop-watch-handling.md
 │   │   └── sop-watch-handling.xml
 │   │   └── sop-seiko-4r36.dita
+│   └── knowledgebase/
+│   │   └── kb-instant-pot-duo-3qt-white-rice.md
 │   └── diagrams/
 │       ├── documentation-lifecycle.png
 │       ├── onboarding-workflow.png
 │       └── password-reset.png
+│       └── jira-documentation-ticket.png
+│       └── confluence-page-tree.png
+│       └── confluence-version-history.png
+│       └── confluence-document-page.png
+│   └── accessibility-remediation/
+|       └── original/
+|       └── remediated/
+|           └── onboarding-accessibility-review.md
+|           └── README.md
 ```
 ---
 

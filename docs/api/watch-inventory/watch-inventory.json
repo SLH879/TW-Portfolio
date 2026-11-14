@@ -6,10 +6,13 @@
       "brand": "Grand Seiko",
       "reference": "SBGP017",
       "ownershipStatus": "sold",
-      "purchaseDate": "2022-07-22",
+      "purchase": {
+      "Date": "2022-07-22",
       "purchasePrice": 3700,
       "purchaseCurrency": "USD",
       "purchasePlatform": "Amazon UK"
+      },
+      "personalNotes": "Baby Tuna, first addition to the Seiko Tuna sub collection."
       "saleDate": "2026-09-19",
       "salePrice": 4150,
       "saleCurrency": "USD",

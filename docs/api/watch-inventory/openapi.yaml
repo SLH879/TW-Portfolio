@@ -5,6 +5,9 @@ info:
   version: 0.1.0
   description: API documentation for a personal watch collection.
 
+# Retrieves a single watch from the collection. 
+# Watch ID is a constant, and remains stable even after the watch is sold or removed from the collection.
+
 paths:
   /watches/{watchId}:
     get:
